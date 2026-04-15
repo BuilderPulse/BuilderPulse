@@ -17,7 +17,7 @@ _What should you build today?_
 [![📰 Read Today's Report](https://img.shields.io/badge/📰_Read_Today's_Report-blue?style=for-the-badge)](en/2026/2026-04-15.md)
 [![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-04-15.md)
 
-**[→ Read full report](en/2026/2026-04-15.md)** · [中文版](zh/2026/2026-04-15.md)
+📖 [→ Read **today's** full report](en/2026/2026-04-15.md) · 🇨🇳 [中文版](zh/2026/2026-04-15.md)
 
 </p>
 
@@ -44,7 +44,7 @@ _What should you build today?_
 [![📰 阅读今日报告](https://img.shields.io/badge/📰_阅读今日报告-blue?style=for-the-badge)](zh/2026/2026-04-15.md)
 [![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-04-15.md)
 
-**[→ 阅读完整报告](zh/2026/2026-04-15.md)** · [English](en/2026/2026-04-15.md)
+📖 [→ 阅读**今日**完整报告](zh/2026/2026-04-15.md) · 🇬🇧 [English](en/2026/2026-04-15.md)
 
 </p>
 
@@ -52,7 +52,7 @@ _What should you build today?_
 
 | 日期 | 头条信号 |
 |------|----------|
-| [4月15日](zh/2026/2026-04-15.md) | WordPress 供应链攻击：有人在 Flippa 以六位数购买了 30… |
+| [4月15日](zh/2026/2026-04-15.md) | WordPress 供应链攻击：有人在 Flippa 以六位数购买了 30 个插件，利用以太坊智能合约植入后门，实现无法追踪的命令与控制 |
 
 [完整归档 →](zh/)
 
