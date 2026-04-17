@@ -12,9 +12,9 @@ Daily analysis of 300+ signals from Hacker News, GitHub, Product Hunt, HuggingFa
 
 ## <a id="english"></a>📰 April 17, 2026
 
-**Today: Claude Opus 4.7 launch vs Qwen3.6 open MoE, Hermes Agent surges to 51K GitHub stars, Google/Fiverr privacy meltdowns expose user data**
+**Today: Opus 4.7 launch driving Codex migration, €54K Firebase billing overnight shock, "openclaw" skeptic wave overtaking actual usage.**
 
-💡 **If you had 2 hours, build a browser extension that enforces per-project spend caps and detects runaway API keys across Anthropic, OpenAI, and Gemini**
+💡 **If you had 2 hours, build a cross-cloud AI billing tripwire daemon that fires SMS and rotates keys when daily spend exceeds a ceiling**
 
 <p align="center">
 
@@ -27,11 +27,11 @@ Daily analysis of 300+ signals from Hacker News, GitHub, Product Hunt, HuggingFa
 
 ### Last 7 days — what you could have built
 
-- **[Apr 17](en/2026/2026-04-17.md)**: 380 HN users watched a €54K API key disaster — no fix exists yet
-- **[Apr 16](en/2026/2026-04-16.md)**: The 2-hour build recommendation is the open-source social media scheduler with the $400/month pain point.  Your girlfriend pays $400/month for scheduling tools — this founder replaced it for €10
-- **[Apr 15](en/2026/2026-04-15.md)**: 611 Backblaze users discovered missing files during restore — yours might be next
-- **[Apr 14](en/2026/2026-04-14.md)**: One CLAUDE.md file hit 14,317 stars — but the discovery tool still doesn't exist
-- **[Apr 13](en/2026/2026-04-13.md)**: claude managed agents exploded 3,750% and nobody has written the comparison article yet
+- **[Apr 17](en/2026/2026-04-17.md)**: One €54,000 Firebase bill in 13 hours — and no cloud will let you hit stop.
+- **[Apr 16](en/2026/2026-04-16.md)**: Founder cut $400/month agency tools to $10/month — 97.5% margins from customer one.
+- **[Apr 15](en/2026/2026-04-15.md)**: Backblaze silently broke backups — 611 angry users are ready to pay $5/month for the fix.
+- **[Apr 14](en/2026/2026-04-14.md)**: 14,317 stars for a single CLAUDE.md file — the marketplace still doesn't exist
+- **[Apr 13](en/2026/2026-04-13.md)**: "claude managed agents" surged 3,750% but no comparison article exists yet — who ships first wins.
 
 [Full archive →](en/)
 
@@ -43,9 +43,9 @@ Daily analysis of 300+ signals from Hacker News, GitHub, Product Hunt, HuggingFa
 
 ### 📰 2026 年 4 月 17 日
 
-**今日: Claude Opus 4.7 发布同日 Qwen3.6 开源性能反超、Hermes Agent 七天 51K Stars 引爆 Agent 框架竞争、谷歌向 ICE 交出学生数据与 Fiverr 隐私泄露双重事故**
+**今日: Opus 4.7 token 计费上涨引发编程 agent 迁移潮、Firebase+Gemini 账单一夜飙至 €54,000 催生跨云账单熔断器需求、OpenClaw 质疑声量反超实际使用量**
 
-💡 **如果你有 2 小时, 做一个对 AI API 密钥强制执行按项目支出上限并检测失控密钥的浏览器扩展**
+💡 **如果你有 2 小时, 做一个监控多家云 AI 账单并在超限时自动熔断的守护程序**
 
 <p align="center">
 
@@ -59,11 +59,11 @@ Daily analysis of 300+ signals from Hacker News, GitHub, Product Hunt, HuggingFa
 ### 最近 7 天 — 你本可以做的事
 
 
-- **[4月17日](zh/2026/2026-04-17.md)**: Firebase+Gemini 失控密钥引发€54K账单，KeyFuse 护栏还没人做
-- **[4月16日](zh/2026/2026-04-16.md)**: 女友月付$400，3周能替代吗
-- **[4月15日](zh/2026/2026-04-15.md)**: Backblaze失信611人，两小时CLI谁先到
-- **[4月14日](zh/2026/2026-04-14.md)**: 技巧文件14317星，市场发现层无人建
-- **[4月13日](zh/2026/2026-04-13.md)**: 单周38426星框架，对比文竟无人写
+- **[4月17日](zh/2026/2026-04-17.md)**: 一觉醒来€54K没了，谁在守门
+- **[4月16日](zh/2026/2026-04-16.md)**: 用400月薪养着竞品，自己花3周用10欧搞定，结局意外…
+- **[4月15日](zh/2026/2026-04-15.md)**: hermes-agent 一周狂揽53K星，托管版还没人做
+- **[4月14日](zh/2026/2026-04-14.md)**: karpathy skills 炸 14K 星，发现层无人填
+- **[4月13日](zh/2026/2026-04-13.md)**: Claude配额1.5小时耗尽，558票等你造工具
 
 [完整归档 →](zh/)
 
