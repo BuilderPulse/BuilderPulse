@@ -1,31 +1,26 @@
-# BuilderPulse Daily
+# BuilderPulse
 
-_What should you build today?_
-
-Daily analysis of 300+ signals from Hacker News, GitHub, Product Hunt, HuggingFace, Google Trends, and Reddit.
-
-⭐ Star · 👁 Watch · 📡 [RSS](../../commits/main.atom)
+_A daily opportunity brief for indie hackers._
+_One build idea. One reason it matters now. Sourced from 300+ live public signals._
 
 [**English**](#english) · [**中文版**](#chinese)
 
 ---
 
-## <a id="english"></a>📰 April 19, 2026
+## <a id="english"></a>💡 Today's build — April 19, 2026
 
-**Today: DigitalOcean→Hetzner migration cuts $14K/year, Claude 4.7 tokenizer costs 1.47x vs stated 1.35x, "refusing AI" essays outrrank AI adoption on HN.**
+> **build a static page that estimates your closest Hetzner server, monthly savings, and migration risk checklist**
 
-💡 **If you had 2 hours, build a static page that estimates your closest Hetzner server, monthly savings, and migration risk checklist**
+**Why it matters now:** DigitalOcean→Hetzner migration cuts $14K/year, Claude 4.7 tokenizer costs 1.47x vs stated 1.35x, "refusing AI" essays outrank AI adoption on HN.
 
 <p align="center">
 
-[![📰 Read Today's Report](https://img.shields.io/badge/📰_Read_Today's_Report-blue?style=for-the-badge)](en/2026/2026-04-19.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-04-19.md)
 [![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-04-19.md)
-
-📖 [→ Read **today's** full report](en/2026/2026-04-19.md) · 🇨🇳 [中文版](zh/2026/2026-04-19.md)
 
 </p>
 
-### Last 7 days — what you could have built
+### Track record — 7 days of signals → builds
 
 - **[Apr 19](en/2026/2026-04-19.md)**: One Turkish founder's 678-point Hetzner post saves $14,388 a year — will your CloudExit calculator catch the second wave?
 - **[Apr 18](en/2026/2026-04-18.md)**: 560 HN devs proved Claude 4.7 burns tokens — the cost counter doesn't exist yet
@@ -39,27 +34,20 @@ Daily analysis of 300+ signals from Hacker News, GitHub, Product Hunt, HuggingFa
 
 ---
 
-## <a id="chinese"></a>中文版
+## <a id="chinese"></a>💡 今日建议 — 2026 年 4 月 19 日
 
-[English Version](#english) · **中文**
+> **做一个接受云服务器规格或账单并对比推荐最近似 Hetzner 专用服务器及费用差额的计算器页面**
 
-### 📰 2026 年 4 月 19 日
-
-**今日: DigitalOcean → Hetzner 迁移年省 $14,388、Claude 4.7 tokenizer 实测膨胀达 1.47 倍、"拒绝 AI"帖首次在 HN 排名超越"拥抱 AI"**
-
-💡 **如果你有 2 小时, 做一个接受云服务器规格或账单并对比推荐最近似 Hetzner 专用服务器及费用差额的计算器页面**
+**为什么是现在:** DigitalOcean → Hetzner 迁移年省 $14,388、Claude 4.7 tokenizer 实测膨胀达 1.47 倍、"拒绝 AI"帖首次在 HN 排名超越"拥抱 AI"
 
 <p align="center">
 
-[![📰 阅读今日报告](https://img.shields.io/badge/📰_阅读今日报告-blue?style=for-the-badge)](zh/2026/2026-04-19.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-04-19.md)
 [![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-04-19.md)
-
-📖 [→ 阅读**今日**完整报告](zh/2026/2026-04-19.md) · 🇬🇧 [English](en/2026/2026-04-19.md)
 
 </p>
 
-### 最近 7 天 — 你本可以做的事
-
+### 7 天命中记录 — 信号 → 可做的项目
 
 - **[4月19日](zh/2026/2026-04-19.md)**: 678分帖年省$14388，这个计算器还没人做
 - **[4月18日](zh/2026/2026-04-18.md)**: 560赞求解AI账单，有人出手了
@@ -75,6 +63,12 @@ Daily analysis of 300+ signals from Hacker News, GitHub, Product Hunt, HuggingFa
 
 ## About
 
-Sources: Hacker News · GitHub Trending · Product Hunt · HuggingFace · Google Trends · Reddit
+**Who this is for:** indie hackers and MicroSaaS founders who want one high-conviction build direction per day, not another feed to scroll.
+
+**How it works:** every day we cross-validate 300+ live public signals across Hacker News, GitHub Trending, Product Hunt, HuggingFace, Google Trends, and Reddit.
+
+**The output:** one concrete build idea, one reason it matters now, with sourced links back to the underlying signals.
+
+⭐ Star · 👁 Watch · 📡 [RSS](../../commits/main.atom)
 
 Built by [Liu Xiaopai (刘小排)](https://github.com/liuxiaopai-ai) · [𝕏 @bourneliu66](https://x.com/bourneliu66)
