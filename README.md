@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Apr 19
+## <a id="english"></a>💡 Today's build · Apr 20
 
-> **build a static cloud-exit calculator matching your AWS/DO bill to the cheapest Hetzner dedicated server**
+> **build a web tool that audits Notion workspace public pages and exports exposed editor emails as CSV**
 
-**Why now:** The 678-point Hetzner migration thread is live today, 350 commenters are naming their own cloud bills, and no savings calculator exists yet
+**Why now:** Notion's 24-hour-old email-leak thread has 323 HN points of demand for exactly this audit, and Notion's own tool closes the window in 7–14 days
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-04-19.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-04-19.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-04-20.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-04-20.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 19](en/2026/2026-04-19.md)**: 678 HN points, $14,388 saved — the DigitalOcean exit calculator doesn't exist yet
-- **[Apr 18](en/2026/2026-04-18.md)**: 560 HN devs are benchmarking Claude costs — but nobody built the comparison tool yet
-- **[Apr 17](en/2026/2026-04-17.md)**: €54,000 Firebase bill in 13 hours — and no cloud will warn you next time
-- **[Apr 16](en/2026/2026-04-16.md)**: Agency owners pay $400/month for a CRUD app — who builds the $10 alternative first?
-- **[Apr 15](en/2026/2026-04-15.md)**: 611 users found Backblaze wasn't backing up their files — who ships the audit tool?
-- **[Apr 14](en/2026/2026-04-14.md)**: A single CLAUDE.md file hit 14,317 GitHub stars — and the discovery layer still doesn't exist.
-- **[Apr 13](en/2026/2026-04-13.md)**: 2-hour build idea from this report: a one-page AI agent framework comparison article, validated by 38,426 hermes-agent stars but zero comparison guides ranking on Google.
+- **[Apr 20](en/2026/2026-04-20.md)**: 323 HN users need Notion's email audit tool — Notion will ship theirs in 14 days
+- **[Apr 19](en/2026/2026-04-19.md)**: 678 engineers want their cloud savings number — the $14,388 calculator hasn't been built yet
+- **[Apr 18](en/2026/2026-04-18.md)**: 560 developers asked what Claude 4.7 costs — nobody shipped the answer yet
+- **[Apr 17](en/2026/2026-04-17.md)**: A dev woke to a €54,000 AI bill — has anyone built the tripwire?
+- **[Apr 16](en/2026/2026-04-16.md)**: Replace $400/month pain with a $10/month VPS — but does the OAuth hold?
+- **[Apr 15](en/2026/2026-04-15.md)**: Backblaze silently excluded your files — 611 comments, 2 hours to expose the gap
+- **[Apr 14](en/2026/2026-04-14.md)**: 14,317 devs starred a single CLAUDE.md file — and nobody built the marketplace yet
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 4月19日
+## <a id="chinese"></a>💡 今日建议 · 4月20日
 
-> **做一个云账单迁移Hetzner省钱计算器**
+> **做一个扫描 Notion workspace 公开页面并列出泄露编辑者邮箱的工具**
 
-**为什么是现在:** 678分帖今日顶HN，评论里无人发布过这个计算器
+**为什么是现在:** Notion泄露帖323 HN点说明恐慌真实，109条评论都在问同一个问题，Notion官方审计工具7—14天内上线即关窗
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-04-19.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-04-19.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-04-20.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-04-20.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月19日](zh/2026/2026-04-19.md)**: 678分迁移帖年省$14K，算账工具还没人做
-- **[4月18日](zh/2026/2026-04-18.md)**: 560赞在骂AI烧钱，你来不来
-- **[4月17日](zh/2026/2026-04-17.md)**: 一觉醒来账单€54K，熔断器谁在做
-- **[4月16日](zh/2026/2026-04-16.md)**: 男友偷偷替代$400排程工具，真有人付吗
-- **[4月15日](zh/2026/2026-04-15.md)**: 611人备份丢了，2小时能接盘吗
-- **[4月14日](zh/2026/2026-04-14.md)**: 14K星验证了需求，市场没人做
-- **[4月13日](zh/2026/2026-04-13.md)**: 暴涨3750%，框架对比没人写
+- **[4月20日](zh/2026/2026-04-20.md)**: Notion 323 点泄露刷屏，你的邮箱不知道已暴露了
+- **[4月19日](zh/2026/2026-04-19.md)**: 678分帖留下的缺口，计算器等人填
+- **[4月18日](zh/2026/2026-04-18.md)**: Opus 4.7悄悄多烧35%，560赞等你来量
+- **[4月17日](zh/2026/2026-04-17.md)**: 一觉€54K飞了，熔断器呢
+- **[4月16日](zh/2026/2026-04-16.md)**: 女友月付$400排程，男友2小时能终结吗
+- **[4月15日](zh/2026/2026-04-15.md)**: Backblaze 偷删了 611 人备份，2 小时 CLI 能追回
+- **[4月14日](zh/2026/2026-04-14.md)**: 一个 CLAUDE.md 撬出 14317 颗星，Skills 发现层无人抢
 
 [完整归档 →](zh/)
 
