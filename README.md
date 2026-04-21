@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · Apr 21
 
-> **build a single-page web tool that scores any GitHub repo's star authenticity as red/yellow/green using velocity and account-age heuristics**
+> **build a GitHub repo credibility scorer that detects fake stars using public API heuristics**
 
-**Why now:** The fake-star investigation hit 737 HN points today, opening a 72-hour attention window before it becomes a podcast segment
+**Why now:** Fake star economy is one day old, ranks nowhere on Google yet, and is already pulling 754 HN points of verified demand
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 21](en/2026/2026-04-21.md)**: 737 points just exposed GitHub's fake-star market — the scanner doesn't exist yet
-- **[Apr 20](en/2026/2026-04-20.md)**: 609-point Vercel breach started with one forgotten OAuth app — check yours now
-- **[Apr 19](en/2026/2026-04-19.md)**: 678 HN readers asked what's my number — the calculator still doesn't exist
-- **[Apr 18](en/2026/2026-04-18.md)**: 560 HN devs are flying blind on AI costs — who ships the fix first?
-- **[Apr 17](en/2026/2026-04-17.md)**: A dev woke up to a €54,000 Gemini bill — yours could be next
-- **[Apr 16](en/2026/2026-04-16.md)**: Agencies pay $400/month for something a 2-hour build can replace — will you?
-- **[Apr 15](en/2026/2026-04-15.md)**: 611 Hacker News users exposed Backblaze's hidden gaps — will anyone build the 2-hour fix?
+- **[Apr 21](en/2026/2026-04-21.md)**: 6M fake stars exposed — will your $29 scorer ship before GitHub does it first
+- **[Apr 20](en/2026/2026-04-20.md)**: Vercel's 609-point breach was OAuth — your workspace has the same zombies
+- **[Apr 19](en/2026/2026-04-19.md)**: 678 engineers proved the $14,388 cloud exit — nobody built the calculator yet
+- **[Apr 18](en/2026/2026-04-18.md)**: 560 HN points confirm nobody knows their AI costs — and the window closes Monday
+- **[Apr 17](en/2026/2026-04-17.md)**: Developer slept, woke to a €54,000 AI bill — no cloud warned them
+- **[Apr 16](en/2026/2026-04-16.md)**: The 2-hour build replacing $400/month tools — and incumbents still haven't noticed
+- **[Apr 15](en/2026/2026-04-15.md)**: 611 Backblaze users don't know what's missing — this 2-hour build could show them
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 4月21日
 
-> **做一个检测 GitHub 仓库虚假星标真实性的评分工具**
+> **做一个检测 GitHub 仓库虚假 star 并给出可信度评分的工具**
 
-**为什么是现在:** 737分的虚假星标报道此刻在HN首页，窗口72小时
+**为什么是现在:** 虚假star词汇今日754分首页诞生，当下无竞争
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月21日](zh/2026/2026-04-21.md)**: 假星600万曝光，检测工具谁先出
-- **[4月20日](zh/2026/2026-04-20.md)**: Vercel 被攻 609 赞，你的 OAuth 僵尸授权还在线
-- **[4月19日](zh/2026/2026-04-19.md)**: 年省14K的迁移计算器还没人做
-- **[4月18日](zh/2026/2026-04-18.md)**: 560赞追问AI成本，答案还差临门一脚
-- **[4月17日](zh/2026/2026-04-17.md)**: 5.4万欧账单一夜炸谁来守
-- **[4月16日](zh/2026/2026-04-16.md)**: 月付$400排程工具，€10替代版谁先做出来
-- **[4月15日](zh/2026/2026-04-15.md)**: Backblaze 漏掉 611 人的文件，CLI 能追回吗
+- **[4月21日](zh/2026/2026-04-21.md)**: 600万假star曝光，评分器窗口还剩多久
+- **[4月20日](zh/2026/2026-04-20.md)**: Vercel被黑609赞，OAuth审计工具还没人抢
+- **[4月19日](zh/2026/2026-04-19.md)**: 年省$14388的迁移算器，空位谁来占
+- **[4月18日](zh/2026/2026-04-18.md)**: 560赞问AI谁最贵，没人敢说
+- **[4月17日](zh/2026/2026-04-17.md)**: 一觉€54K账单到，下一个是谁
+- **[4月16日](zh/2026/2026-04-16.md)**: $400排程账单压着，他3周造出了什么
+- **[4月15日](zh/2026/2026-04-15.md)**: 611怒评等一个备份审计CLI
 
 [完整归档 →](zh/)
 
