@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Apr 20
+## <a id="english"></a>💡 Today's build · Apr 21
 
-> **build a CLI that audits Google Workspace OAuth grants sorted by sensitive-scope and last-used date to identify revocable zombie apps**
+> **build a single-page web tool that scores any GitHub repo's star authenticity as red/yellow/green using velocity and account-age heuristics**
 
-**Why now:** Vercel's breach IOC (609 HN points) just named a Google Workspace OAuth app as the attack pivot, making zombie grant audits urgent today.
+**Why now:** The fake-star investigation hit 737 HN points today, opening a 72-hour attention window before it becomes a podcast segment
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-04-20.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-04-20.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-04-21.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-04-21.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 20](en/2026/2026-04-20.md)**: Build OAuthTriage in 2 hours — Vercel's breach named 609-point OAuth exploit no one's auditing yet.
-- **[Apr 19](en/2026/2026-04-19.md)**: 678 HN points confirm $14,388 in hidden cloud savings — the calculator still doesn't exist
-- **[Apr 18](en/2026/2026-04-18.md)**: 560-point HN thread demands this tool — but nobody has built the cost comparison yet.
-- **[Apr 17](en/2026/2026-04-17.md)**: One dev's €54,000 overnight Gemini bill exposed the gap a 2-hour build could close.
-- **[Apr 16](en/2026/2026-04-16.md)**: Replace $400/month pain with a $10/month tool — will agencies actually switch?
-- **[Apr 15](en/2026/2026-04-15.md)**: 611 HN users lost files Backblaze quietly stopped backing up — yours might be next
-- **[Apr 14](en/2026/2026-04-14.md)**: 14,317 devs starred a single CLAUDE.md file — the marketplace doesn't exist yet
+- **[Apr 21](en/2026/2026-04-21.md)**: 737 points just exposed GitHub's fake-star market — the scanner doesn't exist yet
+- **[Apr 20](en/2026/2026-04-20.md)**: 609-point Vercel breach started with one forgotten OAuth app — check yours now
+- **[Apr 19](en/2026/2026-04-19.md)**: 678 HN readers asked what's my number — the calculator still doesn't exist
+- **[Apr 18](en/2026/2026-04-18.md)**: 560 HN devs are flying blind on AI costs — who ships the fix first?
+- **[Apr 17](en/2026/2026-04-17.md)**: A dev woke up to a €54,000 Gemini bill — yours could be next
+- **[Apr 16](en/2026/2026-04-16.md)**: Agencies pay $400/month for something a 2-hour build can replace — will you?
+- **[Apr 15](en/2026/2026-04-15.md)**: 611 Hacker News users exposed Backblaze's hidden gaps — will anyone build the 2-hour fix?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 4月20日
+## <a id="chinese"></a>💡 今日建议 · 4月21日
 
-> **做一个审计 Google Workspace 第三方 OAuth 授权并按风险排序导出 CSV 的工具**
+> **做一个检测 GitHub 仓库虚假星标真实性的评分工具**
 
-**为什么是现在:** Vercel入侵IOC刚公开24小时，HN 609点赞，OAuth跳板议题的7天窗口正好现在开始
+**为什么是现在:** 737分的虚假星标报道此刻在HN首页，窗口72小时
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-04-20.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-04-20.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-04-21.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-04-21.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月20日](zh/2026/2026-04-20.md)**: Vercel被黑609点，你的OAuth里还藏着几个跳板
-- **[4月19日](zh/2026/2026-04-19.md)**: 678分迁移帖，计算器等你来建
-- **[4月18日](zh/2026/2026-04-18.md)**: 算费黑盒560赞等60行来破
-- **[4月17日](zh/2026/2026-04-17.md)**: €54K一夜蒸发，熔断器等人建
-- **[4月16日](zh/2026/2026-04-16.md)**: 月付$400的排程工具，等谁来终结
-- **[4月15日](zh/2026/2026-04-15.md)**: Backblaze 悄悄漏了你的备份，611 条评论谁来接
-- **[4月14日](zh/2026/2026-04-14.md)**: Skills文件14K星刷屏，发现市集无人敢动
+- **[4月21日](zh/2026/2026-04-21.md)**: 假星600万曝光，检测工具谁先出
+- **[4月20日](zh/2026/2026-04-20.md)**: Vercel 被攻 609 赞，你的 OAuth 僵尸授权还在线
+- **[4月19日](zh/2026/2026-04-19.md)**: 年省14K的迁移计算器还没人做
+- **[4月18日](zh/2026/2026-04-18.md)**: 560赞追问AI成本，答案还差临门一脚
+- **[4月17日](zh/2026/2026-04-17.md)**: 5.4万欧账单一夜炸谁来守
+- **[4月16日](zh/2026/2026-04-16.md)**: 月付$400排程工具，€10替代版谁先做出来
+- **[4月15日](zh/2026/2026-04-15.md)**: Backblaze 漏掉 611 人的文件，CLI 能追回吗
 
 [完整归档 →](zh/)
 
