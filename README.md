@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · Apr 22
 
-> **build a webhook that monitors OSS dependency license changes and alerts via Slack and email**
+> **build a single-command CLI that migrates Claude Code configs to Kimi K2.6 with cost comparison output**
 
-**Why now:** Cal.diy's 148 HN points — a reactive community fork seven days after Cal.com closed its source — proves demand for proactive license-change alerts exists today
+**Why now:** The 413-point HN thread about Anthropic's Claude Code removal is still live, giving KimiSwitch a free distribution channel before the front-page window closes
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 22](en/2026/2026-04-22.md)**: Snyk charges $98/seat for what LicenseWatch does in 2 hours — ship it first
-- **[Apr 21](en/2026/2026-04-21.md)**: GitHub's fake star economy scored 754 HN points — the $29 detector still doesn't exist
-- **[Apr 20](en/2026/2026-04-20.md)**: 609 developers tracked Vercel's OAuth breach — your forgotten grant might be next
-- **[Apr 19](en/2026/2026-04-19.md)**: $14,388 in cloud savings, 678 HN points — and the calculator is still unbuilt
-- **[Apr 18](en/2026/2026-04-18.md)**: 560 HN points say your AI bill is wrong — the fix still doesn't exist
-- **[Apr 17](en/2026/2026-04-17.md)**: €54,000 in 13 hours while you slept — who's watching your cloud bill tonight?
-- **[Apr 16](en/2026/2026-04-16.md)**: Agencies pay $400/month for what is essentially a cron job — who builds the replacement?
+- **[Apr 22](en/2026/2026-04-22.md)**: 420 HN comments hunting a Claude Code exit — the migration CLI doesn't exist yet
+- **[Apr 21](en/2026/2026-04-21.md)**: 754 HN points exposed GitHub's fake star economy — can you catch them first?
+- **[Apr 20](en/2026/2026-04-20.md)**: 609-point Vercel breach traced to one forgotten OAuth app — how many do you have?
+- **[Apr 19](en/2026/2026-04-19.md)**: One founder saved $14,388 migrating servers — the cloud-exit calculator still doesn't exist
+- **[Apr 18](en/2026/2026-04-18.md)**: 560 developers measured the AI cost gap — nobody filled it yet
+- **[Apr 17](en/2026/2026-04-17.md)**: A €54,000 AI bill appeared overnight — who builds the 2-hour fix first?
+- **[Apr 16](en/2026/2026-04-16.md)**: Someone replaced $400/month agency software in 2 hours — the incumbents won't like this
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 4月22日
 
-> **做一个监控开源依赖许可证变更并触发告警的工具**
+> **做一个单命令 CLI 将 Claude Code 配置迁移到 Kimi K2.6 并显示费用对比**
 
-**为什么是现在:** 636分HN帖里运营者正追问怎能提前知道许可证变化
+**为什么是现在:** 420条评论的帖还在首页，今天回复链接就能免费获客
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月22日](zh/2026/2026-04-22.md)**: 636分催生许可证哨兵，谁先动手
-- **[4月21日](zh/2026/2026-04-21.md)**: 六百万假星曝光，谁先锁定裁判位
-- **[4月20日](zh/2026/2026-04-20.md)**: Vercel遭黑609赞，你账户的OAuth僵尸谁来审
-- **[4月19日](zh/2026/2026-04-19.md)**: 678分爆帖背后，那个计算器没人做
-- **[4月18日](zh/2026/2026-04-18.md)**: 560赞帖背后还有60行秘密
-- **[4月17日](zh/2026/2026-04-17.md)**: AI账单一夜€54,000，你的熔断器呢
-- **[4月16日](zh/2026/2026-04-16.md)**: 女友月付$400，平替能走多远
+- **[4月22日](zh/2026/2026-04-22.md)**: Pro被砍，420评论等接盘侠
+- **[4月21日](zh/2026/2026-04-21.md)**: 600万假star一夜曝光，评分器谁先发布
+- **[4月20日](zh/2026/2026-04-20.md)**: Vercel 609赞后，你的OAuth后门还开着
+- **[4月19日](zh/2026/2026-04-19.md)**: 678分帖催生迁移计算器，你能省多少
+- **[4月18日](zh/2026/2026-04-18.md)**: 560赞盯着AI烧钱，答案竟然空白
+- **[4月17日](zh/2026/2026-04-17.md)**: 账单飙到€54K，熔断器谁来建
+- **[4月16日](zh/2026/2026-04-16.md)**: $400月租痛点已现，€10方案等你出手
 
 [完整归档 →](zh/)
 
