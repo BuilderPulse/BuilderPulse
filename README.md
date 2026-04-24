@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · Apr 24
 
-> **build a static page that scores AI and cloud vendors on postmortem transparency and alerts teams on new postmortems**
+> **build a CLI that verifies agent-generated code diffs for hallucinated imports and compromised packages**
 
-**Why now:** The 485-comment Anthropic postmortem thread is live buyer-intent, with operators already describing the three-tab ritual PostmortemRadar replaces
+**Why now:** GPT-5.5 launched today with an 86% hallucination rate, flooding PR queues with untrustworthy agent diffs before any verification tooling exists to catch them
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 24](en/2026/2026-04-24.md)**: Anthropic's postmortem hit 625 HN points — and the scorecard still doesn't exist
-- **[Apr 23](en/2026/2026-04-23.md)**: 321 engineers caught AI rewriting code it wasn't asked to — who ships the fix?
-- **[Apr 22](en/2026/2026-04-22.md)**: 420 HN comments on Anthropic's Claude Code cut — 2 hours to escape the price trap
-- **[Apr 21](en/2026/2026-04-21.md)**: 6M fake GitHub stars fooled everyone — until a $29 tool showed up
-- **[Apr 20](en/2026/2026-04-20.md)**: The 609-point Vercel breach has one specific 2-hour fix — and nobody shipped it yet
-- **[Apr 19](en/2026/2026-04-19.md)**: $14,388/year is sitting there — and the cloud calculator still doesn't exist
-- **[Apr 18](en/2026/2026-04-18.md)**: 560 HN developers proved nobody knows their real AI costs — do you?
+- **[Apr 24](en/2026/2026-04-24.md)**: GPT-5.5 hallucinates at 86% — but who ships the $19 verifier first?
+- **[Apr 23](en/2026/2026-04-23.md)**: 321 upvotes confirmed AI over-editing is real — will a 150-line CLI actually catch it?
+- **[Apr 22](en/2026/2026-04-22.md)**: 420 comments demand a Claude Code exit — this 2-hour CLI already has one
+- **[Apr 21](en/2026/2026-04-21.md)**: Fake GitHub stars sell for $0.06 each — build the detector before GitHub does
+- **[Apr 20](en/2026/2026-04-20.md)**: 609 HN engineers just found Vercel's OAuth vulnerability — yours is probably still open
+- **[Apr 19](en/2026/2026-04-19.md)**: 678 HN readers proved $14,388 in savings — and nobody built the calculator yet
+- **[Apr 18](en/2026/2026-04-18.md)**: 560 HN points confirmed AI cost blindness — the two-hour build window closes Monday
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 4月24日
 
-> **做一个轮询各大 AI 和云厂商状态页并对事故复盘透明度打分的公开台账工具**
+> **做一个在 AI 代码合并前验证幻觉符号和被入侵包的 CLI 工具**
 
-**为什么是现在:** 同一早晨三起信任事件合计1294条评论无人发布台账
+**为什么是现在:** 886条HN评论里目标买家今天正在自我标识
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月24日](zh/2026/2026-04-24.md)**: 485条评论同问一事，$19台账窗口倒计时
-- **[4月23日](zh/2026/2026-04-23.md)**: AI越界改码321分坐实，谁先做谁先赢
-- **[4月22日](zh/2026/2026-04-22.md)**: 420条评论后，迁移神器等谁来建
-- **[4月21日](zh/2026/2026-04-21.md)**: 600万假星，你的工具能揭穿吗
-- **[4月20日](zh/2026/2026-04-20.md)**: Vercel被OAuth拖垮609赞，你的僵尸授权还在潜伏
-- **[4月19日](zh/2026/2026-04-19.md)**: 678分热帖后，云计算器无人认领
-- **[4月18日](zh/2026/2026-04-18.md)**: 560赞坐实AI成本黑洞，答案还没人测
+- **[4月24日](zh/2026/2026-04-24.md)**: 幻觉率 86% 的代码正在被合并，$19 的拦截工具还来得及吗
+- **[4月23日](zh/2026/2026-04-23.md)**: 321分验证AI改多了，守门工具谁先抢
+- **[4月22日](zh/2026/2026-04-22.md)**: 420条评论等迁移工具，你先来
+- **[4月21日](zh/2026/2026-04-21.md)**: 600万假star今日曝光，工具位置还空着
+- **[4月20日](zh/2026/2026-04-20.md)**: Vercel 609赞入侵，你三年前的OAuth还活着
+- **[4月19日](zh/2026/2026-04-19.md)**: 678分HN帖催生CloudExit，空档没人抢
+- **[4月18日](zh/2026/2026-04-18.md)**: 560人追问AI成本，答案藏在60行里
 
 [完整归档 →](zh/)
 
