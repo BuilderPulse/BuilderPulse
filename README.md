@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · Apr 26
 
-> **build a local CLI or web page that reads USB port data and tells users if their adapter can actually reach 10 Gbps**
+> **build a Markdown/Git audit tool that prunes agent-maintained wikis**
 
-**Why now:** Geerling's $80 adapter story hit 544 HN points today, so the audience for PortTruth is live, reading, and asking exactly the question it answers
+**Why now:** Wuphf hit 222 Show HN points while Tolaria hit 298 and "ai agent traps" rose +50%, so agent-knowledge cleanup has live demand
 
 <p align="center">
 
@@ -22,7 +22,7 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 26](en/2026/2026-04-26.md)**: The $80 USB adapter earned 544 HN points — will your port actually deliver?
+- **[Apr 26](en/2026/2026-04-26.md)**: Agent-maintained wikis hit 222 and 298 points — who keeps the knowledge trustworthy?
 - **[Apr 25](en/2026/2026-04-25.md)**: Claude is silently ignoring your stop hooks — 916 developers just found out
 - **[Apr 24](en/2026/2026-04-24.md)**: 756-point Bitwarden breach just exposed your CI secrets — no scanner exists yet
 - **[Apr 23](en/2026/2026-04-23.md)**: AI agents silently rewrite your diffs — 321 engineers measured the damage
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 4月26日
 
-> **做一个检测本地 USB 端口和网卡是否真能跑满 10 Gbps 的工具**
+> **做一个清理 agent 维护知识库的 Markdown/Git 审计工具**
 
-**为什么是现在:** 544个HN点数说明市场教育已完成，今天分发最容易
+**为什么是现在:** Wuphf 222 点、Tolaria 298 点，说明 agent 知识库清理需求正在出现
 
 <p align="center">
 
@@ -49,7 +49,7 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月26日](zh/2026/2026-04-26.md)**: 544 赞，$80 网卡背后有个谜
+- **[4月26日](zh/2026/2026-04-26.md)**: Wuphf 222 点、Tolaria 298 点，agent 知识库谁来清理
 - **[4月25日](zh/2026/2026-04-25.md)**: 78点帖藏着hook修复的秘密
 - **[4月24日](zh/2026/2026-04-24.md)**: Bitwarden被黑756分，ActionPin能查出什么
 - **[4月23日](zh/2026/2026-04-23.md)**: 321分研究盯上AI越界改码，拦截器要出手了
