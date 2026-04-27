@@ -71,4 +71,12 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ⭐ Star · 👁 Watch · 📡 [RSS](../../commits/main.atom)
 
+## License
+
+BuilderPulse reports and README content are licensed for non-commercial use under [CC BY-NC 4.0](LICENSE.md).
+
+Commercial use, including republishing, resale, paid newsletters, paid datasets, commercial products, or bundling BuilderPulse content into a paid service, requires prior written permission from [Liu Xiaopai](https://github.com/liuxiaopai-ai).
+
+BuilderPulse 报告内容采用 [CC BY-NC 4.0](LICENSE.md) 授权，仅限非商业使用。商业转载、售卖、付费 newsletter、数据集打包、商业产品集成等用途，请先联系刘小排获得书面授权。
+
 Built by [Liu Xiaopai (刘小排)](https://github.com/liuxiaopai-ai) · [𝕏 @bourneliu66](https://x.com/bourneliu66)
