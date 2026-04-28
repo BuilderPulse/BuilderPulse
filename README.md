@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · Apr 28
 
-> **build a watched-name alert that emails founders when a dormant domain expires, enters auction, or changes ownership**
+> **build a GitHub Copilot spend tracker that forecasts usage-based billing surprises for engineering managers**
 
-**Why now:** The Friendster thread hit 1,072 Hacker News points with a top comment asking why no alert service exists for watched domains becoming available, proving there is unmet demand for exactly what DropWatch solves
+**Why now:** Copilot's shift to usage-based billing drew 432 comments from engineering managers who need spend forecasts before their first variable invoice arrives
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 28](en/2026/2026-04-28.md)**: Friendster sold for $30k while 1,072 HN readers asked where the alert was
-- **[Apr 27](en/2026/2026-04-27.md)**: AI wiped a production database; 545 HN points later, is yours next?
-- **[Apr 26](en/2026/2026-04-26.md)**: Agent-written wikis hit 298 HN points — but can you trust any of it?
-- **[Apr 25](en/2026/2026-04-25.md)**: 916 HN points found Claude ignores stop hooks — the 2-hour fix nobody shipped yet
-- **[Apr 24](en/2026/2026-04-24.md)**: 756-point Bitwarden breach exposed CI secrets — is your YAML next?
-- **[Apr 23](en/2026/2026-04-23.md)**: 321 devs measured AI over-editing — the 2-hour fix doesn't exist yet
-- **[Apr 22](en/2026/2026-04-22.md)**: Anthropic moved Claude Code behind a $100 paywall — 413 HN users want the 2-hour escape
+- **[Apr 28](en/2026/2026-04-28.md)**: GitHub Copilot's 432-comment billing shock — who checks the invoice first?
+- **[Apr 27](en/2026/2026-04-27.md)**: 688 developers watched an AI delete production — what's stopping yours from doing it?
+- **[Apr 26](en/2026/2026-04-26.md)**: 298 HN upvotes on agent-maintained wikis — but who audits the notes nobody trusts?
+- **[Apr 25](en/2026/2026-04-25.md)**: Claude's stop hooks fail silently — 916 developers say yours might be broken too
+- **[Apr 24](en/2026/2026-04-24.md)**: Bitwarden CLI compromise drew 756 HN upvotes — are your GitHub Actions next?
+- **[Apr 23](en/2026/2026-04-23.md)**: 321 developers proved AI edits code you never asked for — nobody built the scorer yet
+- **[Apr 22](en/2026/2026-04-22.md)**: 413 HN comments after Anthropic 5x'd Claude Code — who ships the exit CLI first?
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 4月28日
 
-> **做一个监控沉睡域名或品牌名变动并及时提醒创始人的工具**
+> **做一个把 Copilot 用量转成超支预警报告的工具**
 
-**为什么是现在:** 1,072 点的讨论串里，顶评直接提出了为什么没有域名提醒服务
+**为什么是现在:** Copilot 按量计费引发 432 条讨论，买家今天开始预算
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月28日](zh/2026/2026-04-28.md)**: Friendster $30k复活，域名监控谁先占坑
-- **[4月27日](zh/2026/2026-04-27.md)**: 545分删库了，守门工具等人做
-- **[4月26日](zh/2026/2026-04-26.md)**: Tolaria拿298点，你的agent wiki还能信吗
-- **[4月25日](zh/2026/2026-04-25.md)**: 78点帖揭穿Claude hook失控，修复工具竟无人出手
-- **[4月24日](zh/2026/2026-04-24.md)**: 756 分 Bitwarden 事件催生 ActionPin，你的密钥还在吗
-- **[4月23日](zh/2026/2026-04-23.md)**: 321分踢爆AI乱改代码，ScopeGuard能撑多久
-- **[4月22日](zh/2026/2026-04-22.md)**: Anthropic 踢掉 Code，420 条评论等迁移方案
+- **[4月28日](zh/2026/2026-04-28.md)**: 432 条评论，Copilot 账单还没人算清楚
+- **[4月27日](zh/2026/2026-04-27.md)**: AI 删库引发 545 次关注，守门工具没人做
+- **[4月26日](zh/2026/2026-04-26.md)**: Agent 悄悄写乱了 wiki，298 次赞同后谁来审
+- **[4月25日](zh/2026/2026-04-25.md)**: Claude 悄悄跳过 stop hook，916 人摸不到真刹车
+- **[4月24日](zh/2026/2026-04-24.md)**: Bitwarden 被黑 756 次关注，两小时能堵住这个口子吗
+- **[4月23日](zh/2026/2026-04-23.md)**: AI 范围失控，321 位开发者之后先手还空着
+- **[4月22日](zh/2026/2026-04-22.md)**: 413 条讨论燃起，迁移 CLI 还等着谁
 
 [完整归档 →](zh/)
 
