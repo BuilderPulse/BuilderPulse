@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · Apr 29
 
-> **build a GitHub migration-readiness report for open-source maintainers**
+> **build a GitHub exit dependency report for maintainers**
 
-**Why now:** Ghostty GitHub exit drew 532 comments, turning forge migration from someday talk into a maintainer checklist
+**Why now:** Ghostty's GitHub exit drew 620 comments, proving maintainers need migration blockers surfaced before the next outage
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 29](en/2026/2026-04-29.md)**: 532 comments made GitHub exit feel actionable before maintainers move
-- **[Apr 28](en/2026/2026-04-28.md)**: 432 comments put Copilot billing on the finance desk before surprise invoices
-- **[Apr 27](en/2026/2026-04-27.md)**: 688 comments made agent database deletion a preflight problem
-- **[Apr 26](en/2026/2026-04-26.md)**: 298 HN upvotes made agent-written wikis look risky
-- **[Apr 25](en/2026/2026-04-25.md)**: 76 comments exposed Claude hook failures hiding in settings
-- **[Apr 24](en/2026/2026-04-24.md)**: 366 comments turned Bitwarden CLI compromise into a CI audit deadline
-- **[Apr 23](en/2026/2026-04-23.md)**: 182 comments made agent over-editing measurable before the next PR
+- **[Apr 29](en/2026/2026-04-29.md)**: 620 comments made GitHub exit blockers impossible to ignore
+- **[Apr 28](en/2026/2026-04-28.md)**: 432 comments made Copilot usage bills a repo-level surprise
+- **[Apr 27](en/2026/2026-04-27.md)**: 688 comments made production database guardrails feel overdue
+- **[Apr 26](en/2026/2026-04-26.md)**: 50 percent search growth made agent-wiki cleanup suddenly urgent
+- **[Apr 25](en/2026/2026-04-25.md)**: 76 comments exposed Claude hook controls that only looked safe
+- **[Apr 24](en/2026/2026-04-24.md)**: 366 comments turned Bitwarden CLI compromise into Monday secret rotation
+- **[Apr 23](en/2026/2026-04-23.md)**: 182 comments made AI over-editing measurable before merge
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 4月29日
 
-> **做一个 GitHub 迁移就绪报告**
+> **做一个维护者用的 GitHub 迁移依赖报告**
 
-**为什么是现在:** Ghostty 离开 GitHub 引发 532 条讨论，代码托管迁移今天从情绪变成了维护者清单
+**为什么是现在:** Ghostty 离开 GitHub 引发 620 条讨论，维护者今天需要先看清迁移阻碍
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月29日](zh/2026/2026-04-29.md)**: 532 条讨论把离开 GitHub 变成维护者今天要看的清单
-- **[4月28日](zh/2026/2026-04-28.md)**: 432 条讨论让 Copilot 计费从功能变成发票风险
-- **[4月27日](zh/2026/2026-04-27.md)**: 688 条评论把 agent 误删数据库变成上线前护栏
-- **[4月26日](zh/2026/2026-04-26.md)**: 298 次赞同让 agent 写的 wiki 噪音浮上台面
-- **[4月25日](zh/2026/2026-04-25.md)**: 76 条评论暴露 Claude hooks 失效，设置里藏着风险
-- **[4月24日](zh/2026/2026-04-24.md)**: 366 条评论把 Bitwarden CLI 泄漏变成 CI 审计期限
-- **[4月23日](zh/2026/2026-04-23.md)**: 182 条评论让 agent 过度编辑变成可量化漂移
+- **[4月29日](zh/2026/2026-04-29.md)**: 620 条讨论把 GitHub 迁移阻碍推到维护者面前
+- **[4月28日](zh/2026/2026-04-28.md)**: 432 条讨论让 Copilot 用量账单变成 repo 风险
+- **[4月27日](zh/2026/2026-04-27.md)**: 688 条评论让生产数据库防误删成了今天的护栏
+- **[4月26日](zh/2026/2026-04-26.md)**: 50% 搜索上涨让 agent wiki 清理突然紧迫
+- **[4月25日](zh/2026/2026-04-25.md)**: 76 条评论暴露 Claude hooks 只是假装安全
+- **[4月24日](zh/2026/2026-04-24.md)**: 366 条评论把 Bitwarden CLI 事故变成 CI 密钥审计
+- **[4月23日](zh/2026/2026-04-23.md)**: 182 条评论让 AI 过度编辑在合并前可测
 
 [完整归档 →](zh/)
 
