@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · Apr 30
 
-> **build a DevTool Terms Alarm for policy and billing-risk reports**
+> **build a PromptBill Guard pre-commit report for surprise AI billing triggers**
 
-**Why now:** Zed's 493 comments show developer-tool buyers now audit data rights before standardizing
+**Why now:** The HERMES.md thread has 446 comments, showing repo text can quietly change AI bills
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 30](en/2026/2026-04-30.md)**: 493 comments turned Zed launch into a terms-risk warning
-- **[Apr 29](en/2026/2026-04-29.md)**: Ghostty's 620 comments expose how hard leaving GitHub gets
-- **[Apr 28](en/2026/2026-04-28.md)**: Copilot billing drew 432 comments before invoices surprise teams
-- **[Apr 27](en/2026/2026-04-27.md)**: 688 comments made agent database deletion an ops-control problem
-- **[Apr 26](en/2026/2026-04-26.md)**: Tolaria drew 298 HN upvotes as agent wikis turned messy
-- **[Apr 25](en/2026/2026-04-25.md)**: 76 comments exposed why Claude hooks fail when agents ignore stops
-- **[Apr 24](en/2026/2026-04-24.md)**: 10M users sit behind a compromised CLI and risky Actions
+- **[Apr 30](en/2026/2026-04-30.md)**: HERMES.md sparked 446 comments; AI billing now hides in repo text?
+- **[Apr 29](en/2026/2026-04-29.md)**: Ghostty leaving GitHub drew 620 comments; how portable is your repo?
+- **[Apr 28](en/2026/2026-04-28.md)**: Copilot billing drew 432 comments; which repo owns next month's spike?
+- **[Apr 27](en/2026/2026-04-27.md)**: Agent database loss drew 688 comments; who blocks production commands?
+- **[Apr 26](en/2026/2026-04-26.md)**: Wuphf got 222 HN upvotes, Tolaria got 298 HN upvotes; who prunes notes?
+- **[Apr 25](en/2026/2026-04-25.md)**: Claude hook failures drew 76 comments; are your stop signs real?
+- **[Apr 24](en/2026/2026-04-24.md)**: Bitwarden CLI compromise drew 366 comments; what secrets can CI reach?
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 4月30日
 
-> **做一个开发者工具条款与账单风险报告**
+> **做一个PromptBill Guard预提交账单风险报告**
 
-**为什么是现在:** Zed 493 条评论和 HERMES.md 420 条讨论说明团队需要先看清授权与账单风险
+**为什么是现在:** HERMES.md 已有 446 条讨论，说明仓库文本会悄悄改变 AI 账单
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月30日](zh/2026/2026-04-30.md)**: Zed 493 条评论把发布变成条款风险提醒
-- **[4月29日](zh/2026/2026-04-29.md)**: Ghostty 620 条评论暴露离开 GitHub 有多难
-- **[4月28日](zh/2026/2026-04-28.md)**: Copilot 432 条讨论让 AI 账单风险提前上桌
-- **[4月27日](zh/2026/2026-04-27.md)**: 688 条评论把 agent 删库变成运维控制题
-- **[4月26日](zh/2026/2026-04-26.md)**: Tolaria 获得 298 次赞同后，agent wiki 的杂乱开始显形
-- **[4月25日](zh/2026/2026-04-25.md)**: 76 条评论暴露 Claude hooks 的控制路径并不可靠
-- **[4月24日](zh/2026/2026-04-24.md)**: 1000 万用户边界里的 Bitwarden CLI 让 Actions secrets 变危险
+- **[4月30日](zh/2026/2026-04-30.md)**: HERMES.md 引发 446 条讨论，AI 账单风险藏进仓库文本？
+- **[4月29日](zh/2026/2026-04-29.md)**: Ghostty 离开 GitHub 引发 620 条评论，你的 repo 搬得走吗？
+- **[4月28日](zh/2026/2026-04-28.md)**: Copilot 计费引发 432 条讨论，下月账单归谁负责？
+- **[4月27日](zh/2026/2026-04-27.md)**: AI agent 删库事故引发 688 条评论，谁来拦生产命令？
+- **[4月26日](zh/2026/2026-04-26.md)**: Wuphf 获得 222 次赞同，Tolaria 获得 298 次赞同，谁清理 agent 笔记？
+- **[4月25日](zh/2026/2026-04-25.md)**: Claude stop-hook 新增 76 条评论，你的停止规则真会生效吗？
+- **[4月24日](zh/2026/2026-04-24.md)**: Bitwarden CLI 事件引发 366 条评论，CI 能碰到哪些密钥？
 
 [完整归档 →](zh/)
 
