@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 1
 
-> **build a local Linux exposure report for Copy Fail risk**
+> **build a Linux host exposure report for teams**
 
-**Why now:** Copy Fail drew 481 Hacker News comments because teams need host-by-host Linux exposure triage now
+**Why now:** Copy Fail drew 483 comments because teams need machine-by-machine Linux exposure answers today
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 1](en/2026/2026-05-01.md)**: Copy Fail sparked 481 comments, and Linux owners need names
-- **[Apr 30](en/2026/2026-04-30.md)**: HERMES.md drew 446 comments, and repo text can change bills
-- **[Apr 29](en/2026/2026-04-29.md)**: Ghostty exit drew 620 comments, and GitHub dependence suddenly has a bill
-- **[Apr 28](en/2026/2026-04-28.md)**: Copilot billing drew 432 comments, and AI spend needs an owner
-- **[Apr 27](en/2026/2026-04-27.md)**: Agent database loss drew 688 comments, and production access looks exposed
-- **[Apr 26](en/2026/2026-04-26.md)**: Wuphf drew 222 Show HN upvotes, and agent notes need pruning
-- **[Apr 25](en/2026/2026-04-25.md)**: Claude stop-hook failures added 76 comments, and stdout was only advice
+- **[May 1](en/2026/2026-05-01.md)**: 483 comments made Linux patching a machine-by-machine mystery
+- **[Apr 30](en/2026/2026-04-30.md)**: 446 comments turned repo text into surprise AI billing risk
+- **[Apr 29](en/2026/2026-04-29.md)**: 620 comments made GitHub exit planning painfully concrete
+- **[Apr 28](en/2026/2026-04-28.md)**: 432 comments made Copilot spend look dangerously unowned
+- **[Apr 27](en/2026/2026-04-27.md)**: 688 comments turned agent database safety into ops control
+- **[Apr 26](en/2026/2026-04-26.md)**: 298 HN upvotes made agent wikis feel untrustworthy
+- **[Apr 25](en/2026/2026-04-25.md)**: 76 comments exposed why Claude hooks need a linter
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月1日
 
-> **做一个Copy Fail Linux 暴露面报告**
+> **做一个团队 Linux 主机暴露报告**
 
-**为什么是现在:** Copy Fail 今天引发 481 条讨论，团队需要立刻分清哪些 Linux 机器暴露
+**为什么是现在:** Copy Fail 引发 483 条讨论，团队今天需要逐台机器确认 Linux 暴露情况
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月1日](zh/2026/2026-05-01.md)**: Copy Fail 引发 481 条讨论，Linux 暴露面需要今天分诊
-- **[4月30日](zh/2026/2026-04-30.md)**: HERMES.md 引发 446 条讨论，仓库文本可能悄悄改账单
-- **[4月29日](zh/2026/2026-04-29.md)**: Ghostty 退出 GitHub 引发 620 条讨论，迁移阻碍浮出水面
-- **[4月28日](zh/2026/2026-04-28.md)**: Copilot 计费引发 432 条讨论，AI 成本开始找负责人
-- **[4月27日](zh/2026/2026-04-27.md)**: 生产数据库事故引发 688 条评论，agent 权限边界变紧急
-- **[4月26日](zh/2026/2026-04-26.md)**: Tolaria 获得 298 次关注，agent 笔记开始变吵
-- **[4月25日](zh/2026/2026-04-25.md)**: Claude stop-hook 讨论新增 76 条评论，确定性控制露出缺口
+- **[5月1日](zh/2026/2026-05-01.md)**: 483 条讨论把 Linux 打补丁变成逐台机器追问
+- **[4月30日](zh/2026/2026-04-30.md)**: 446 条讨论让仓库文本变成 AI 账单风险
+- **[4月29日](zh/2026/2026-04-29.md)**: 620 条讨论让离开 GitHub 的清单变得刺眼
+- **[4月28日](zh/2026/2026-04-28.md)**: 432 条讨论把 Copilot 用量变成预算悬念
+- **[4月27日](zh/2026/2026-04-27.md)**: 688 条评论把 agent 误删数据库变成运维警报
+- **[4月26日](zh/2026/2026-04-26.md)**: 298 次关注让 agent wiki 的可信度成了问题
+- **[4月25日](zh/2026/2026-04-25.md)**: 76 条评论暴露 Claude hook 控制路径有多脆
 
 [完整归档 →](zh/)
 
