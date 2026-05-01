@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Apr 30
+## <a id="english"></a>💡 Today's build · May 1
 
-> **build a PromptBill Guard pre-commit report for surprise AI billing triggers**
+> **build a local Linux exposure report for Copy Fail risk**
 
-**Why now:** The HERMES.md thread has 446 comments, showing repo text can quietly change AI bills
+**Why now:** Copy Fail drew 481 Hacker News comments because teams need host-by-host Linux exposure triage now
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-04-30.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-04-30.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-01.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-01.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 30](en/2026/2026-04-30.md)**: HERMES.md sparked 446 comments; AI billing now hides in repo text?
-- **[Apr 29](en/2026/2026-04-29.md)**: Ghostty leaving GitHub drew 620 comments; how portable is your repo?
-- **[Apr 28](en/2026/2026-04-28.md)**: Copilot billing drew 432 comments; which repo owns next month's spike?
-- **[Apr 27](en/2026/2026-04-27.md)**: Agent database loss drew 688 comments; who blocks production commands?
-- **[Apr 26](en/2026/2026-04-26.md)**: Wuphf got 222 HN upvotes, Tolaria got 298 HN upvotes; who prunes notes?
-- **[Apr 25](en/2026/2026-04-25.md)**: Claude hook failures drew 76 comments; are your stop signs real?
-- **[Apr 24](en/2026/2026-04-24.md)**: Bitwarden CLI compromise drew 366 comments; what secrets can CI reach?
+- **[May 1](en/2026/2026-05-01.md)**: Copy Fail sparked 481 comments, and Linux owners need names
+- **[Apr 30](en/2026/2026-04-30.md)**: HERMES.md drew 446 comments, and repo text can change bills
+- **[Apr 29](en/2026/2026-04-29.md)**: Ghostty exit drew 620 comments, and GitHub dependence suddenly has a bill
+- **[Apr 28](en/2026/2026-04-28.md)**: Copilot billing drew 432 comments, and AI spend needs an owner
+- **[Apr 27](en/2026/2026-04-27.md)**: Agent database loss drew 688 comments, and production access looks exposed
+- **[Apr 26](en/2026/2026-04-26.md)**: Wuphf drew 222 Show HN upvotes, and agent notes need pruning
+- **[Apr 25](en/2026/2026-04-25.md)**: Claude stop-hook failures added 76 comments, and stdout was only advice
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 4月30日
+## <a id="chinese"></a>💡 今日建议 · 5月1日
 
-> **做一个PromptBill Guard预提交账单风险报告**
+> **做一个Copy Fail Linux 暴露面报告**
 
-**为什么是现在:** HERMES.md 已有 446 条讨论，说明仓库文本会悄悄改变 AI 账单
+**为什么是现在:** Copy Fail 今天引发 481 条讨论，团队需要立刻分清哪些 Linux 机器暴露
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-04-30.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-04-30.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-01.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-01.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月30日](zh/2026/2026-04-30.md)**: HERMES.md 引发 446 条讨论，AI 账单风险藏进仓库文本？
-- **[4月29日](zh/2026/2026-04-29.md)**: Ghostty 离开 GitHub 引发 620 条评论，你的 repo 搬得走吗？
-- **[4月28日](zh/2026/2026-04-28.md)**: Copilot 计费引发 432 条讨论，下月账单归谁负责？
-- **[4月27日](zh/2026/2026-04-27.md)**: AI agent 删库事故引发 688 条评论，谁来拦生产命令？
-- **[4月26日](zh/2026/2026-04-26.md)**: Wuphf 获得 222 次赞同，Tolaria 获得 298 次赞同，谁清理 agent 笔记？
-- **[4月25日](zh/2026/2026-04-25.md)**: Claude stop-hook 新增 76 条评论，你的停止规则真会生效吗？
-- **[4月24日](zh/2026/2026-04-24.md)**: Bitwarden CLI 事件引发 366 条评论，CI 能碰到哪些密钥？
+- **[5月1日](zh/2026/2026-05-01.md)**: Copy Fail 引发 481 条讨论，Linux 暴露面需要今天分诊
+- **[4月30日](zh/2026/2026-04-30.md)**: HERMES.md 引发 446 条讨论，仓库文本可能悄悄改账单
+- **[4月29日](zh/2026/2026-04-29.md)**: Ghostty 退出 GitHub 引发 620 条讨论，迁移阻碍浮出水面
+- **[4月28日](zh/2026/2026-04-28.md)**: Copilot 计费引发 432 条讨论，AI 成本开始找负责人
+- **[4月27日](zh/2026/2026-04-27.md)**: 生产数据库事故引发 688 条评论，agent 权限边界变紧急
+- **[4月26日](zh/2026/2026-04-26.md)**: Tolaria 获得 298 次关注，agent 笔记开始变吵
+- **[4月25日](zh/2026/2026-04-25.md)**: Claude stop-hook 讨论新增 76 条评论，确定性控制露出缺口
 
 [完整归档 →](zh/)
 
