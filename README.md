@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 2
 
-> **build a startup immigration intake report**
+> **build a pull-request inspector for risky AI-assistant repo text**
 
-**Why now:** With 677 comments across hiring and immigration threads, startups need attorney-ready visa packets before offers break
+**Why now:** 707 comments show repo text now changes assistant behavior, so teams need PR warnings before blocked releases or surprise usage
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 2](en/2026/2026-05-02.md)**: 677 comments expose a visa paperwork gap before offers break
-- **[May 1](en/2026/2026-05-01.md)**: 869 comments turn Linux patching into machine by machine exposure work
-- **[Apr 30](en/2026/2026-04-30.md)**: 446 comments show repo text can quietly change AI bills
-- **[Apr 29](en/2026/2026-04-29.md)**: 867 comments make GitHub exit debt impossible to ignore
-- **[Apr 28](en/2026/2026-04-28.md)**: 1,113 comments push AI coding spend from seats to invoices
-- **[Apr 27](en/2026/2026-04-27.md)**: 688 comments turn production database deletion into a local guardrail
-- **[Apr 26](en/2026/2026-04-26.md)**: 50% search growth makes agent wiki clutter newly searchable
+- **[May 2](en/2026/2026-05-02.md)**: 707 comments expose repo words that can reroute coding assistants
+- **[May 1](en/2026/2026-05-01.md)**: 483 comments turn Linux patching into machine-by-machine exposure work
+- **[Apr 30](en/2026/2026-04-30.md)**: 446 comments reveal repo strings can change AI coding bills
+- **[Apr 29](en/2026/2026-04-29.md)**: 620 comments make GitHub exit costs feel suddenly real
+- **[Apr 28](en/2026/2026-04-28.md)**: 432 comments turn Copilot usage into budget anxiety
+- **[Apr 27](en/2026/2026-04-27.md)**: 688 comments drag AI agent safety into production databases
+- **[Apr 26](en/2026/2026-04-26.md)**: 50% search growth makes agent wiki cleanup feel urgent
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月2日
 
-> **做一个创业移民初筛报告**
+> **做一个AI助手仓库文字预警报告**
 
-**为什么是现在:** 677 条评论显示创业公司今天需要在 offer 出问题前整理签证资料
+**为什么是现在:** 707 条讨论说明仓库文字正在改变助手行为，今天适合做合并前预警报告
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月2日](zh/2026/2026-05-02.md)**: 677 条评论暴露创业签证文书缺口，offer 可能先断
-- **[5月1日](zh/2026/2026-05-01.md)**: 869 条评论把 Linux 补丁变成逐台机器盘点
-- **[4月30日](zh/2026/2026-04-30.md)**: 446 条讨论显示仓库文本也可能改写 AI 账单
-- **[4月29日](zh/2026/2026-04-29.md)**: 867 条评论让 GitHub 退出债务变得可盘点
-- **[4月28日](zh/2026/2026-04-28.md)**: 1,113 条讨论把 AI 编码成本推到账单桌面
-- **[4月27日](zh/2026/2026-04-27.md)**: 688 条评论把生产库误删变成本地护栏机会
-- **[4月26日](zh/2026/2026-04-26.md)**: 50% 搜索增长让 agent 知识库清理有了入口
+- **[5月2日](zh/2026/2026-05-02.md)**: 707 条讨论暴露仓库文字会改变 AI 助手行为
+- **[5月1日](zh/2026/2026-05-01.md)**: 483 条讨论把 Linux 修补变成逐台机器盘点
+- **[4月30日](zh/2026/2026-04-30.md)**: 446 条讨论说明仓库字符串可能改变 AI 账单
+- **[4月29日](zh/2026/2026-04-29.md)**: 620 条讨论让 GitHub 退出成本浮出水面
+- **[4月28日](zh/2026/2026-04-28.md)**: 432 条讨论把 Copilot 支出变成预算风险
+- **[4月27日](zh/2026/2026-04-27.md)**: 688 条讨论把 AI agent 安全拉进生产数据库
+- **[4月26日](zh/2026/2026-04-26.md)**: 50% 搜索增长让 agent wiki 清理变得紧迫
 
 [完整归档 →](zh/)
 
