@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 3
 
-> **build a Git commit attribution audit for AI co-author metadata**
+> **build a Git co-author attribution audit for pull requests**
 
-**Why now:** A VS Code/Copilot attribution change drew 345 comments, turning commit metadata into a merge-time trust risk
+**Why now:** The VS Code authorship thread has 469 comments because teams now treat commit metadata as a legal record
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 3](en/2026/2026-05-03.md)**: 345 comments turned AI co-author trailers into a trust problem
-- **[May 2](en/2026/2026-05-02.md)**: 707 comments exposed repo words that can change AI coding behavior
-- **[May 1](en/2026/2026-05-01.md)**: 483 comments made Linux patching a machine-by-machine exposure hunt
-- **[Apr 30](en/2026/2026-04-30.md)**: 446 comments showed one repo string can change the AI bill
-- **[Apr 29](en/2026/2026-04-29.md)**: 620 comments asked what breaks when open source leaves GitHub
-- **[Apr 28](en/2026/2026-04-28.md)**: 432 comments made Copilot usage a budget surprise
-- **[Apr 27](en/2026/2026-04-27.md)**: 688 comments turned agent safety into a production database guardrail
+- **[May 3](en/2026/2026-05-03.md)**: 469 comments turned commit authorship into an audit problem
+- **[May 2](en/2026/2026-05-02.md)**: 707 comments show repo words can change AI tool behavior
+- **[May 1](en/2026/2026-05-01.md)**: 483 comments made Linux patching a machine-by-machine inventory
+- **[Apr 30](en/2026/2026-04-30.md)**: 446 comments reveal repo text can move AI bills
+- **[Apr 29](en/2026/2026-04-29.md)**: 620 comments ask what breaks when open source leaves GitHub
+- **[Apr 28](en/2026/2026-04-28.md)**: 432 comments put Copilot usage forecasts on finance desks
+- **[Apr 27](en/2026/2026-04-27.md)**: 688 comments ask why agents can touch production databases
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月3日
 
-> **做一个AI提交署名审计报告**
+> **做一个 Git 提交归属审计报告**
 
-**为什么是现在:** VS Code/Copilot 署名变更引发 345 条讨论，提交元数据今天已成合并前信任风险
+**为什么是现在:** VS Code 作者归属线程已有 469 条讨论说明团队开始把提交元数据当成法律记录
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月3日](zh/2026/2026-05-03.md)**: 345 条讨论把 AI 共同署名变成信任问题
-- **[5月2日](zh/2026/2026-05-02.md)**: 707 条讨论暴露仓库词语会改变 AI 编码行为
-- **[5月1日](zh/2026/2026-05-01.md)**: 483 条讨论让 Linux 补丁变成逐台排查
-- **[4月30日](zh/2026/2026-04-30.md)**: 446 条讨论显示一个仓库字符串能改变 AI 账单
-- **[4月29日](zh/2026/2026-04-29.md)**: 620 条讨论追问开源项目离开 GitHub 会坏什么
-- **[4月28日](zh/2026/2026-04-28.md)**: 432 条讨论让 Copilot 用量成为预算惊喜
-- **[4月27日](zh/2026/2026-04-27.md)**: 688 条评论把 agent 安全推到生产数据库门口
+- **[5月3日](zh/2026/2026-05-03.md)**: 469 条讨论把提交作者归属变成审计问题
+- **[5月2日](zh/2026/2026-05-02.md)**: 707 条讨论说明仓库文字会改变 AI 工具行为
+- **[5月1日](zh/2026/2026-05-01.md)**: 483 条讨论把 Linux 补丁变成逐台盘点
+- **[4月30日](zh/2026/2026-04-30.md)**: 446 条讨论暴露仓库文本可能推高 AI 账单
+- **[4月29日](zh/2026/2026-04-29.md)**: 620 条讨论追问开源离开 GitHub 会坏什么
+- **[4月28日](zh/2026/2026-04-28.md)**: 432 条讨论把 Copilot 用量预测推到财务桌上
+- **[4月27日](zh/2026/2026-04-27.md)**: 688 条讨论追问智能体为何能碰生产数据库
 
 [完整归档 →](zh/)
 
