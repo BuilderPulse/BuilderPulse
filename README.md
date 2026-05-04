@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 3
+## <a id="english"></a>💡 Today's build · May 4
 
-> **build a Git co-author attribution audit for pull requests**
+> **build a telemetry opt-out compliance report for developer tools**
 
-**Why now:** The VS Code authorship thread has 469 comments because teams now treat commit metadata as a legal record
+**Why now:** Do_not_track drew 156 comments because teams need proof local tools respect telemetry opt-outs
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-03.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-03.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-04.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-04.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 3](en/2026/2026-05-03.md)**: 469 comments turned commit authorship into an audit problem
-- **[May 2](en/2026/2026-05-02.md)**: 707 comments show repo words can change AI tool behavior
-- **[May 1](en/2026/2026-05-01.md)**: 483 comments made Linux patching a machine-by-machine inventory
-- **[Apr 30](en/2026/2026-04-30.md)**: 446 comments reveal repo text can move AI bills
-- **[Apr 29](en/2026/2026-04-29.md)**: 620 comments ask what breaks when open source leaves GitHub
-- **[Apr 28](en/2026/2026-04-28.md)**: 432 comments put Copilot usage forecasts on finance desks
-- **[Apr 27](en/2026/2026-04-27.md)**: 688 comments ask why agents can touch production databases
+- **[May 4](en/2026/2026-05-04.md)**: 156 comments expose telemetry opt-out drift
+- **[May 3](en/2026/2026-05-03.md)**: 469 comments turned commit authorship into audit work
+- **[May 2](en/2026/2026-05-02.md)**: 707 comments show repo words can break AI coding runs
+- **[May 1](en/2026/2026-05-01.md)**: 483 comments made Linux patching a machine inventory problem
+- **[Apr 30](en/2026/2026-04-30.md)**: 446 comments show hidden repo strings can change AI bills
+- **[Apr 29](en/2026/2026-04-29.md)**: 620 comments ask how trapped open source is on GitHub
+- **[Apr 28](en/2026/2026-04-28.md)**: 432 comments made Copilot spending a buyer problem
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月3日
+## <a id="chinese"></a>💡 今日建议 · 5月4日
 
-> **做一个 Git 提交归属审计报告**
+> **做一个开发者工具遥测拒绝合规报告**
 
-**为什么是现在:** VS Code 作者归属线程已有 469 条讨论说明团队开始把提交元数据当成法律记录
+**为什么是现在:** Do_not_track 引发 156 条讨论，团队今天需要证明本地工具真的尊重遥测拒绝
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-03.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-03.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-04.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-04.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月3日](zh/2026/2026-05-03.md)**: 469 条讨论把提交作者归属变成审计问题
-- **[5月2日](zh/2026/2026-05-02.md)**: 707 条讨论说明仓库文字会改变 AI 工具行为
-- **[5月1日](zh/2026/2026-05-01.md)**: 483 条讨论把 Linux 补丁变成逐台盘点
-- **[4月30日](zh/2026/2026-04-30.md)**: 446 条讨论暴露仓库文本可能推高 AI 账单
-- **[4月29日](zh/2026/2026-04-29.md)**: 620 条讨论追问开源离开 GitHub 会坏什么
-- **[4月28日](zh/2026/2026-04-28.md)**: 432 条讨论把 Copilot 用量预测推到财务桌上
-- **[4月27日](zh/2026/2026-04-27.md)**: 688 条讨论追问智能体为何能碰生产数据库
+- **[5月4日](zh/2026/2026-05-04.md)**: 156 条讨论暴露遥测拒绝失灵
+- **[5月3日](zh/2026/2026-05-03.md)**: 469 条讨论把提交署名变成审计工作
+- **[5月2日](zh/2026/2026-05-02.md)**: 707 条讨论说明仓库用词会卡住 AI 编程
+- **[5月1日](zh/2026/2026-05-01.md)**: 483 条讨论让 Linux 补丁变成逐机盘点
+- **[4月30日](zh/2026/2026-04-30.md)**: 446 条讨论显示隐藏仓库字符串会改变 AI 账单
+- **[4月29日](zh/2026/2026-04-29.md)**: 620 条讨论追问开源项目被 GitHub 绑多深
+- **[4月28日](zh/2026/2026-04-28.md)**: 432 条讨论让 Copilot 支出变成买家问题
 
 [完整归档 →](zh/)
 
