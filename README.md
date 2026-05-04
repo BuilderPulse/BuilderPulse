@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 4
 
-> **build a telemetry opt-out compliance report for developer tools**
+> **build a TUI accessibility audit CLI**
 
-**Why now:** Do_not_track drew 156 comments because teams need proof local tools respect telemetry opt-outs
+**Why now:** Terminal interface threads hit 308 comments today, making a TUI audit CLI timely before teams ship confusing control surfaces
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 4](en/2026/2026-05-04.md)**: 156 comments expose telemetry opt-out drift
-- **[May 3](en/2026/2026-05-03.md)**: 469 comments turned commit authorship into audit work
-- **[May 2](en/2026/2026-05-02.md)**: 707 comments show repo words can break AI coding runs
-- **[May 1](en/2026/2026-05-01.md)**: 483 comments made Linux patching a machine inventory problem
-- **[Apr 30](en/2026/2026-04-30.md)**: 446 comments show hidden repo strings can change AI bills
-- **[Apr 29](en/2026/2026-04-29.md)**: 620 comments ask how trapped open source is on GitHub
-- **[Apr 28](en/2026/2026-04-28.md)**: 432 comments made Copilot spending a buyer problem
+- **[May 4](en/2026/2026-05-04.md)**: 308 comments revived TUIs; accessibility is the open gap
+- **[May 3](en/2026/2026-05-03.md)**: 469 comments turned Copilot co-authorship into a legal trail
+- **[May 2](en/2026/2026-05-02.md)**: 707 comments exposed repo words as hidden AI policy
+- **[May 1](en/2026/2026-05-01.md)**: 483 comments made Linux patching a machine-by-machine question
+- **[Apr 30](en/2026/2026-04-30.md)**: 446 comments showed a filename can change AI billing
+- **[Apr 29](en/2026/2026-04-29.md)**: 620 comments made GitHub exit planning suddenly practical
+- **[Apr 28](en/2026/2026-04-28.md)**: 432 comments turned Copilot usage into budget risk
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月4日
 
-> **做一个开发者工具遥测拒绝合规报告**
+> **做一个终端可访问性审计工具**
 
-**为什么是现在:** Do_not_track 引发 156 条讨论，团队今天需要证明本地工具真的尊重遥测拒绝
+**为什么是现在:** 308 条终端界面讨论说明控制问题已经升温，今天适合做终端可访问性审计工具
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月4日](zh/2026/2026-05-04.md)**: 156 条讨论暴露遥测拒绝失灵
-- **[5月3日](zh/2026/2026-05-03.md)**: 469 条讨论把提交署名变成审计工作
-- **[5月2日](zh/2026/2026-05-02.md)**: 707 条讨论说明仓库用词会卡住 AI 编程
-- **[5月1日](zh/2026/2026-05-01.md)**: 483 条讨论让 Linux 补丁变成逐机盘点
-- **[4月30日](zh/2026/2026-04-30.md)**: 446 条讨论显示隐藏仓库字符串会改变 AI 账单
-- **[4月29日](zh/2026/2026-04-29.md)**: 620 条讨论追问开源项目被 GitHub 绑多深
-- **[4月28日](zh/2026/2026-04-28.md)**: 432 条讨论让 Copilot 支出变成买家问题
+- **[5月4日](zh/2026/2026-05-04.md)**: 308 条讨论把 TUI 拉回台前，可访问性缺口还在
+- **[5月3日](zh/2026/2026-05-03.md)**: 469 条讨论把 Copilot 署名变成法律记录问题
+- **[5月2日](zh/2026/2026-05-02.md)**: 707 条讨论说明仓库文字也会触发隐藏规则
+- **[5月1日](zh/2026/2026-05-01.md)**: 483 条讨论让 Linux 修补变成逐台盘点
+- **[4月30日](zh/2026/2026-04-30.md)**: 446 条讨论显示一个文件名也可能改账单
+- **[4月29日](zh/2026/2026-04-29.md)**: 620 条讨论让 GitHub 退出清单突然有买家
+- **[4月28日](zh/2026/2026-04-28.md)**: 432 条讨论把 Copilot 用量变成预算风险
 
 [完整归档 →](zh/)
 
