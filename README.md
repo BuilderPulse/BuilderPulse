@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 4
+## <a id="english"></a>💡 Today's build · May 5
 
-> **build a TUI accessibility audit CLI**
+> **build a browser privacy report for regulated web forms**
 
-**Why now:** Terminal interface threads hit 308 comments today, making a TUI audit CLI timely before teams ship confusing control surfaces
+**Why now:** Healthcare form tracking drew 143 comments, proving regulated teams need field-level evidence before analytics scripts ship
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-04.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-04.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-05.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-05.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 4](en/2026/2026-05-04.md)**: 308 comments revived TUIs; accessibility is the open gap
-- **[May 3](en/2026/2026-05-03.md)**: 469 comments turned Copilot co-authorship into a legal trail
-- **[May 2](en/2026/2026-05-02.md)**: 707 comments exposed repo words as hidden AI policy
-- **[May 1](en/2026/2026-05-01.md)**: 483 comments made Linux patching a machine-by-machine question
-- **[Apr 30](en/2026/2026-04-30.md)**: 446 comments showed a filename can change AI billing
-- **[Apr 29](en/2026/2026-04-29.md)**: 620 comments made GitHub exit planning suddenly practical
-- **[Apr 28](en/2026/2026-04-28.md)**: 432 comments turned Copilot usage into budget risk
+- **[May 5](en/2026/2026-05-05.md)**: 143 comments exposed healthcare form tracking as tomorrow's launch risk
+- **[May 4](en/2026/2026-05-04.md)**: 308 comments put terminal accessibility back on the release checklist
+- **[May 3](en/2026/2026-05-03.md)**: 469 comments turned Copilot commit trailers into legal baggage
+- **[May 2](en/2026/2026-05-02.md)**: 707 comments showed repo words can steer AI coding bills
+- **[May 1](en/2026/2026-05-01.md)**: 483 comments made Linux patching a machine-by-machine scramble
+- **[Apr 30](en/2026/2026-04-30.md)**: 446 comments turned HERMES.md into an AI billing tripwire
+- **[Apr 29](en/2026/2026-04-29.md)**: 620 comments turned a GitHub exit into portability homework
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月4日
+## <a id="chinese"></a>💡 今日建议 · 5月5日
 
-> **做一个终端可访问性审计工具**
+> **做一个受监管表单隐私报告工具**
 
-**为什么是现在:** 308 条终端界面讨论说明控制问题已经升温，今天适合做终端可访问性审计工具
+**为什么是现在:** 医疗表单追踪今天引发143条讨论，受监管团队需要在上线前拿到字段级泄露证据
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-04.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-04.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-05.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-05.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月4日](zh/2026/2026-05-04.md)**: 308 条讨论把 TUI 拉回台前，可访问性缺口还在
-- **[5月3日](zh/2026/2026-05-03.md)**: 469 条讨论把 Copilot 署名变成法律记录问题
-- **[5月2日](zh/2026/2026-05-02.md)**: 707 条讨论说明仓库文字也会触发隐藏规则
-- **[5月1日](zh/2026/2026-05-01.md)**: 483 条讨论让 Linux 修补变成逐台盘点
-- **[4月30日](zh/2026/2026-04-30.md)**: 446 条讨论显示一个文件名也可能改账单
-- **[4月29日](zh/2026/2026-04-29.md)**: 620 条讨论让 GitHub 退出清单突然有买家
-- **[4月28日](zh/2026/2026-04-28.md)**: 432 条讨论把 Copilot 用量变成预算风险
+- **[5月5日](zh/2026/2026-05-05.md)**: 143条讨论让医疗表单追踪变成上线前风险
+- **[5月4日](zh/2026/2026-05-04.md)**: 308条讨论把终端可访问性推回发布清单
+- **[5月3日](zh/2026/2026-05-03.md)**: 469条讨论让Copilot提交署名变成法律包袱
+- **[5月2日](zh/2026/2026-05-02.md)**: 707条讨论说明仓库文字会牵动AI编程账单
+- **[5月1日](zh/2026/2026-05-01.md)**: 483条讨论把Linux补丁变成逐台机器排查
+- **[4月30日](zh/2026/2026-04-30.md)**: 446条讨论让HERMES.md变成AI账单触发器
+- **[4月29日](zh/2026/2026-04-29.md)**: 620条讨论把GitHub退出变成迁移作业
 
 [完整归档 →](zh/)
 
