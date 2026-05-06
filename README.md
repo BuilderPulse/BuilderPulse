@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 5
+## <a id="english"></a>💡 Today's build · May 6
 
-> **build a browser privacy report for regulated form leaks**
+> **build a Chrome AI footprint report for shared school machines**
 
-**Why now:** Healthcare tracking drew 152 comments, making prelaunch proof of leaking form fields urgent
+**Why now:** Chrome's silent 4 GB AI download drew 840 comments from admins facing shared-profile storage pain
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-05.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-05.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-06.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-06.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 5](en/2026/2026-05-05.md)**: 152 comments exposed form leaks before launch, who checks them
-- **[May 4](en/2026/2026-05-04.md)**: 308 comments revived TUIs, but accessibility is the trap
-- **[May 3](en/2026/2026-05-03.md)**: 469 comments made AI co-authorship a repo risk
-- **[May 2](en/2026/2026-05-02.md)**: 707 comments showed repo words can burn coding sessions
-- **[May 1](en/2026/2026-05-01.md)**: 483 comments turned Linux patching into machine inventory
-- **[Apr 30](en/2026/2026-04-30.md)**: 446 comments made repo text a billing trigger
-- **[Apr 29](en/2026/2026-04-29.md)**: 620 comments put GitHub exit readiness on maintainers
+- **[May 6](en/2026/2026-05-06.md)**: Chrome's 4 GB AI download drew 840 comments; who owns cleanup?
+- **[May 5](en/2026/2026-05-05.md)**: Healthcare tracking drew 152 comments; which forms are leaking before launch?
+- **[May 4](en/2026/2026-05-04.md)**: Terminal UIs drew 308 comments; can releases prove controls work?
+- **[May 3](en/2026/2026-05-03.md)**: Copilot attribution drew 469 comments; who really authored the commit?
+- **[May 2](en/2026/2026-05-02.md)**: OpenClaw routing drew 707 comments; which repo words change cost?
+- **[May 1](en/2026/2026-05-01.md)**: Copy Fail drew 483 comments; which Linux machines are exposed today?
+- **[Apr 30](en/2026/2026-04-30.md)**: HERMES.md billing drew 446 comments; which repo strings change invoices?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月5日
+## <a id="chinese"></a>💡 今日建议 · 5月6日
 
-> **做一个表单隐私泄露报告**
+> **做一个Chrome AI占用排查报告**
 
-**为什么是现在:** 医疗追踪今天引发152条讨论，表单字段外泄需要上线前证明
+**为什么是现在:** Chrome 静默下载 4 GB AI 模型引发 840 条讨论，机房管理员今天需要查清哪些机器中招
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-05.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-05.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-06.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-06.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月5日](zh/2026/2026-05-05.md)**: 152条讨论暴露表单外泄，上线前谁来证明
-- **[5月4日](zh/2026/2026-05-04.md)**: 308条讨论让终端回潮，但无障碍成了风险
-- **[5月3日](zh/2026/2026-05-03.md)**: 469条讨论把AI共同署名变成仓库风险
-- **[5月2日](zh/2026/2026-05-02.md)**: 707条讨论说明仓库文字也会烧掉额度
-- **[5月1日](zh/2026/2026-05-01.md)**: 483条讨论让Linux补丁变成逐台盘点
-- **[4月30日](zh/2026/2026-04-30.md)**: 446条讨论把仓库文本变成账单触发器
-- **[4月29日](zh/2026/2026-04-29.md)**: 620条讨论让GitHub退出准备成了维护者难题
+- **[5月6日](zh/2026/2026-05-06.md)**: Chrome 4 GB AI 下载引发 840 条讨论，哪些机器已经中招
+- **[5月5日](zh/2026/2026-05-05.md)**: 医疗追踪有 152 条讨论，哪些表单上线前已泄露
+- **[5月4日](zh/2026/2026-05-04.md)**: 终端界面有 308 条讨论，控制项真的可访问吗
+- **[5月3日](zh/2026/2026-05-03.md)**: Copilot 署名有 469 条讨论，谁真的写了这次提交
+- **[5月2日](zh/2026/2026-05-02.md)**: OpenClaw 路由有 707 条讨论，哪些仓库词会改变账单
+- **[5月1日](zh/2026/2026-05-01.md)**: Copy Fail 有 483 条讨论，哪些 Linux 机器今天暴露
+- **[4月30日](zh/2026/2026-04-30.md)**: HERMES.md 计费有 446 条讨论，哪个字符串会改账单
 
 [完整归档 →](zh/)
 
