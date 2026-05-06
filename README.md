@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 6
 
-> **build a Chrome AI footprint report for shared school machines**
+> **build a Chrome AI footprint report for school and lab admins**
 
-**Why now:** Chrome's silent 4 GB AI download drew 840 comments from admins facing shared-profile storage pain
+**Why now:** Chrome AI downloads drew 889 comments, exposing an admin cost problem before shared machines redownload gigabytes
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 6](en/2026/2026-05-06.md)**: Chrome's 4 GB AI download drew 840 comments; who owns cleanup?
-- **[May 5](en/2026/2026-05-05.md)**: Healthcare tracking drew 152 comments; which forms are leaking before launch?
-- **[May 4](en/2026/2026-05-04.md)**: Terminal UIs drew 308 comments; can releases prove controls work?
-- **[May 3](en/2026/2026-05-03.md)**: Copilot attribution drew 469 comments; who really authored the commit?
-- **[May 2](en/2026/2026-05-02.md)**: OpenClaw routing drew 707 comments; which repo words change cost?
-- **[May 1](en/2026/2026-05-01.md)**: Copy Fail drew 483 comments; which Linux machines are exposed today?
-- **[Apr 30](en/2026/2026-04-30.md)**: HERMES.md billing drew 446 comments; which repo strings change invoices?
+- **[May 6](en/2026/2026-05-06.md)**: Chrome AI 4 GB file drew 889 comments. Who owns the bill?
+- **[May 5](en/2026/2026-05-05.md)**: Healthcare tracking had 152 comments. Which form fields leaked?
+- **[May 4](en/2026/2026-05-04.md)**: Terminal interfaces drew 308 comments. Are your controls legible?
+- **[May 3](en/2026/2026-05-03.md)**: Copilot authorship drew 469 comments. Who really wrote the commit?
+- **[May 2](en/2026/2026-05-02.md)**: OpenClaw repo language drew 707 comments. What strings change tool behavior?
+- **[May 1](en/2026/2026-05-01.md)**: Copy Fail drew 483 comments. Which Linux hosts are exposed?
+- **[Apr 30](en/2026/2026-04-30.md)**: HERMES.md billing drew 446 comments. Which repo words change spend?
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月6日
 
-> **做一个Chrome AI占用排查报告**
+> **做一个 Chrome AI 占用报告**
 
-**为什么是现在:** Chrome 静默下载 4 GB AI 模型引发 840 条讨论，机房管理员今天需要查清哪些机器中招
+**为什么是现在:** 889 条讨论显示 Chrome 端侧 AI 下载已变成共享机器的管理员账单问题
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月6日](zh/2026/2026-05-06.md)**: Chrome 4 GB AI 下载引发 840 条讨论，哪些机器已经中招
-- **[5月5日](zh/2026/2026-05-05.md)**: 医疗追踪有 152 条讨论，哪些表单上线前已泄露
-- **[5月4日](zh/2026/2026-05-04.md)**: 终端界面有 308 条讨论，控制项真的可访问吗
-- **[5月3日](zh/2026/2026-05-03.md)**: Copilot 署名有 469 条讨论，谁真的写了这次提交
-- **[5月2日](zh/2026/2026-05-02.md)**: OpenClaw 路由有 707 条讨论，哪些仓库词会改变账单
-- **[5月1日](zh/2026/2026-05-01.md)**: Copy Fail 有 483 条讨论，哪些 Linux 机器今天暴露
-- **[4月30日](zh/2026/2026-04-30.md)**: HERMES.md 计费有 446 条讨论，哪个字符串会改账单
+- **[5月6日](zh/2026/2026-05-06.md)**: Chrome 4 GB AI 文件引发 889 条讨论，谁来付账?
+- **[5月5日](zh/2026/2026-05-05.md)**: 医疗追踪有 152 条讨论，哪些表单字段泄露了?
+- **[5月4日](zh/2026/2026-05-04.md)**: 终端界面引发 308 条讨论，控制项真的可读吗?
+- **[5月3日](zh/2026/2026-05-03.md)**: Copilot 署名引发 469 条讨论，提交到底是谁写的?
+- **[5月2日](zh/2026/2026-05-02.md)**: OpenClaw 仓库词触发 707 条讨论，哪些字符串会变贵?
+- **[5月1日](zh/2026/2026-05-01.md)**: Copy Fail 引发 483 条讨论，哪些 Linux 主机已暴露?
+- **[4月30日](zh/2026/2026-04-30.md)**: HERMES.md 计费引发 446 条讨论，哪些仓库词会烧钱?
 
 [完整归档 →](zh/)
 
