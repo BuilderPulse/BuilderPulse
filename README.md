@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 7
 
-> **build a purchase ledger for agent-created accounts, payments, and deploys**
+> **build a team approval ledger for AI agent purchases and deploys**
 
-**Why now:** Cloudflare agents drew 353 comments because AI now creates accounts, buys domains, and deploys before teams can audit spend
+**Why now:** Cloudflare agent actions drew 355 comments as agents started buying domains and deploying, making approval receipts urgent
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 7](en/2026/2026-05-07.md)**: 353 comments ask who approved agent spend?
-- **[May 6](en/2026/2026-05-06.md)**: 889 comments turn a 4 GB browser model into an admin bill
-- **[May 5](en/2026/2026-05-05.md)**: 152 comments make form pixels look like legal evidence
-- **[May 4](en/2026/2026-05-04.md)**: 308 comments expose terminal accessibility debt before release
-- **[May 3](en/2026/2026-05-03.md)**: 469 comments put Copilot trailers in the legal record
-- **[May 2](en/2026/2026-05-02.md)**: 707 comments show repo words can burn coding sessions
-- **[May 1](en/2026/2026-05-01.md)**: 483 comments make Linux patching a machine-by-machine queue
+- **[May 7](en/2026/2026-05-07.md)**: Agents buying domains drew 355 comments; who signs before deploy
+- **[May 6](en/2026/2026-05-06.md)**: Chrome 4 GB model drew 889 comments; admins need receipts
+- **[May 5](en/2026/2026-05-05.md)**: Healthcare form tracking drew 152 comments; which fields leaked
+- **[May 4](en/2026/2026-05-04.md)**: Terminal UI debate hit 386 comments; which screens exclude users
+- **[May 3](en/2026/2026-05-03.md)**: Copilot co-authoring drew 469 comments; who really authored this
+- **[May 2](en/2026/2026-05-02.md)**: OpenClaw routing drew 707 comments; which repo words cost money
+- **[May 1](en/2026/2026-05-01.md)**: Copy Fail drew 483 comments; which Linux hosts are exposed
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月7日
 
-> **做一个 AI 购买与部署台账**
+> **做一个智能体购买审批账本**
 
-**为什么是现在:** Cloudflare agents 已有 353 条讨论，因为 AI 已经开始创建账号、买域名和部署，团队需要先审计花费
+**为什么是现在:** Cloudflare 智能体动作已有 355 条讨论，说明助手开始买域名和部署，今天正适合做审批收据账本
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月7日](zh/2026/2026-05-07.md)**: 353 条讨论追问 AI 花钱前谁批准
-- **[5月6日](zh/2026/2026-05-06.md)**: 889 条讨论把 4 GB 浏览器模型变成管理员账单
-- **[5月5日](zh/2026/2026-05-05.md)**: 152 条评论让表单像素变成合规证据
-- **[5月4日](zh/2026/2026-05-04.md)**: 308 条讨论暴露终端应用的无障碍欠账
-- **[5月3日](zh/2026/2026-05-03.md)**: 469 条讨论把 Copilot 署名送进法律记录
-- **[5月2日](zh/2026/2026-05-02.md)**: 707 条讨论显示仓库词语也会烧掉额度
-- **[5月1日](zh/2026/2026-05-01.md)**: 483 条讨论把 Linux 补丁变成逐台清单
+- **[5月7日](zh/2026/2026-05-07.md)**: 智能体买域名引发 355 条讨论，谁先签字
+- **[5月6日](zh/2026/2026-05-06.md)**: Chrome 4 GB 模型引发 889 条讨论，谁付存储账单
+- **[5月5日](zh/2026/2026-05-05.md)**: 医疗表单追踪引发 152 条讨论，哪些字段外流
+- **[5月4日](zh/2026/2026-05-04.md)**: 终端界面争论达到 386 条讨论，哪些屏幕挡住用户
+- **[5月3日](zh/2026/2026-05-03.md)**: Copilot 共同署名引发 469 条讨论，谁真正写了提交
+- **[5月2日](zh/2026/2026-05-02.md)**: OpenClaw 路由引发 707 条讨论，哪些仓库词会烧额度
+- **[5月1日](zh/2026/2026-05-01.md)**: Copy Fail 引发 483 条讨论，哪些 Linux 主机暴露
 
 [完整归档 →](zh/)
 
