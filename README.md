@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 7
+## <a id="english"></a>💡 Today's build · May 8
 
-> **build a team approval ledger for AI agent purchases and deploys**
+> **build a pre-publish moderation report for community owners**
 
-**Why now:** Cloudflare agent actions drew 355 comments as agents started buying domains and deploying, making approval receipts urgent
+**Why now:** 491 comments on AI slop show community owners need pre-publish trust checks today
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-07.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-07.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-08.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-08.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 7](en/2026/2026-05-07.md)**: Agents buying domains drew 355 comments; who signs before deploy
-- **[May 6](en/2026/2026-05-06.md)**: Chrome 4 GB model drew 889 comments; admins need receipts
-- **[May 5](en/2026/2026-05-05.md)**: Healthcare form tracking drew 152 comments; which fields leaked
-- **[May 4](en/2026/2026-05-04.md)**: Terminal UI debate hit 386 comments; which screens exclude users
-- **[May 3](en/2026/2026-05-03.md)**: Copilot co-authoring drew 469 comments; who really authored this
-- **[May 2](en/2026/2026-05-02.md)**: OpenClaw routing drew 707 comments; which repo words cost money
-- **[May 1](en/2026/2026-05-01.md)**: Copy Fail drew 483 comments; which Linux hosts are exposed
+- **[May 8](en/2026/2026-05-08.md)**: 491 AI slop comments expose a pre-publish trust gap
+- **[May 7](en/2026/2026-05-07.md)**: 355 comments push agent spending receipts into the workflow
+- **[May 6](en/2026/2026-05-06.md)**: 889 comments turn Chrome AI downloads into admin work
+- **[May 5](en/2026/2026-05-05.md)**: 152 comments make private form leakage painfully concrete
+- **[May 4](en/2026/2026-05-04.md)**: 308 TUI comments reopen the accessibility debt nobody wants
+- **[May 3](en/2026/2026-05-03.md)**: 469 comments make AI co-author metadata a trust problem
+- **[May 2](en/2026/2026-05-02.md)**: 707 comments show repo wording can trip coding assistants
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月7日
+## <a id="chinese"></a>💡 今日建议 · 5月8日
 
-> **做一个智能体购买审批账本**
+> **做一个社区发布前审核报告**
 
-**为什么是现在:** Cloudflare 智能体动作已有 355 条讨论，说明助手开始买域名和部署，今天正适合做审批收据账本
+**为什么是现在:** 491 条讨论说明社区所有者今天需要发布前信任审核
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-07.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-07.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-08.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-08.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月7日](zh/2026/2026-05-07.md)**: 智能体买域名引发 355 条讨论，谁先签字
-- **[5月6日](zh/2026/2026-05-06.md)**: Chrome 4 GB 模型引发 889 条讨论，谁付存储账单
-- **[5月5日](zh/2026/2026-05-05.md)**: 医疗表单追踪引发 152 条讨论，哪些字段外流
-- **[5月4日](zh/2026/2026-05-04.md)**: 终端界面争论达到 386 条讨论，哪些屏幕挡住用户
-- **[5月3日](zh/2026/2026-05-03.md)**: Copilot 共同署名引发 469 条讨论，谁真正写了提交
-- **[5月2日](zh/2026/2026-05-02.md)**: OpenClaw 路由引发 707 条讨论，哪些仓库词会烧额度
-- **[5月1日](zh/2026/2026-05-01.md)**: Copy Fail 引发 483 条讨论，哪些 Linux 主机暴露
+- **[5月8日](zh/2026/2026-05-08.md)**: 491 条讨论让发布前审核变成今天的信任缺口
+- **[5月7日](zh/2026/2026-05-07.md)**: 355 条讨论把 AI 花钱收据推到台前
+- **[5月6日](zh/2026/2026-05-06.md)**: 889 条讨论把 Chrome AI 下载变成管理员麻烦
+- **[5月5日](zh/2026/2026-05-05.md)**: 152 条讨论让表单数据外泄变得具体
+- **[5月4日](zh/2026/2026-05-04.md)**: 308 条讨论让终端可访问性债务重新冒头
+- **[5月3日](zh/2026/2026-05-03.md)**: 469 条讨论让 AI 共同署名成了信任问题
+- **[5月2日](zh/2026/2026-05-02.md)**: 707 条讨论说明仓库措辞会绊倒编码助手
 
 [完整归档 →](zh/)
 
