@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 9
 
-> **build a UUID Entropy Canary**
+> **build a browser and API ID-collision canary report**
 
-**Why now:** 258 comments on a real UUID collision exposed weak randomness before duplicate IDs corrupt customer records
+**Why now:** The UUID collision thread drew 267 comments, showing teams need randomness checks before customer IDs corrupt accounts
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 9](en/2026/2026-05-09.md)**: 258 comments made UUID randomness a customer-record risk
-- **[May 8](en/2026/2026-05-08.md)**: 491 comments turned AI slop into a moderator bill
-- **[May 7](en/2026/2026-05-07.md)**: 355 comments showed agents can spend money before approval
-- **[May 6](en/2026/2026-05-06.md)**: 889 comments made Chrome's 4 GB model an IT bill
-- **[May 5](en/2026/2026-05-05.md)**: 152 comments made form pixels a compliance leak
-- **[May 4](en/2026/2026-05-04.md)**: 308 comments revived TUIs, but accessibility is the trap
-- **[May 3](en/2026/2026-05-03.md)**: 469 comments turned Copilot co-authorship into legal metadata
+- **[May 9](en/2026/2026-05-09.md)**: 267 comments exposed the unique-ID assumption before accounts cross wires
+- **[May 8](en/2026/2026-05-08.md)**: 535 comments turned AI slop into a moderator evidence problem
+- **[May 7](en/2026/2026-05-07.md)**: 355 comments showed agent purchases need receipts before money moves
+- **[May 6](en/2026/2026-05-06.md)**: 889 comments made Chrome's 4 GB local AI footprint impossible to ignore
+- **[May 5](en/2026/2026-05-05.md)**: 152 comments turned hidden healthcare trackers into a compliance scan
+- **[May 4](en/2026/2026-05-04.md)**: 386 comments made terminal accessibility a release-blocking report
+- **[May 3](en/2026/2026-05-03.md)**: 469 comments turned AI co-author defaults into a Git history audit
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月9日
 
-> **做一个 UUID 熵检查器**
+> **做一个 ID 碰撞预警报告**
 
-**为什么是现在:** 258 条讨论暴露了 UUID 弱随机性，今天适合做 ID 熵检查
+**为什么是现在:** 267 条讨论说明，SaaS 团队今天需要先验证客户 ID 随机性再信任唯一性
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月9日](zh/2026/2026-05-09.md)**: 258 条讨论让 UUID 随机性变成客户记录风险
-- **[5月8日](zh/2026/2026-05-08.md)**: 491 条讨论把 AI 垃圾内容变成版主账单
-- **[5月7日](zh/2026/2026-05-07.md)**: 355 条讨论显示智能体已经能先花钱再补审批
-- **[5月6日](zh/2026/2026-05-06.md)**: 889 条讨论让 Chrome 4 GB 模型变成 IT 账单
-- **[5月5日](zh/2026/2026-05-05.md)**: 152 条讨论把表单像素变成合规泄漏风险
-- **[5月4日](zh/2026/2026-05-04.md)**: 308 条讨论让 TUI 回潮撞上可访问性难题
-- **[5月3日](zh/2026/2026-05-03.md)**: 469 条讨论把 Copilot 署名变成法律元数据
+- **[5月9日](zh/2026/2026-05-09.md)**: 267 条讨论把唯一 ID 变成上线前随机性审计
+- **[5月8日](zh/2026/2026-05-08.md)**: 535 条讨论说明 AI 垃圾内容需要发布前证据审查
+- **[5月7日](zh/2026/2026-05-07.md)**: 355 条讨论让 AI 助手购买动作必须留下收据
+- **[5月6日](zh/2026/2026-05-06.md)**: 889 条讨论把 Chrome 4 GB 本地 AI 变成管理员问题
+- **[5月5日](zh/2026/2026-05-05.md)**: 152 条讨论暴露医疗表单追踪的合规缺口
+- **[5月4日](zh/2026/2026-05-04.md)**: 386 条讨论让终端可访问性变成发布报告
+- **[5月3日](zh/2026/2026-05-03.md)**: 469 条讨论把 AI 共同作者默认项变成 Git 审计
 
 [完整归档 →](zh/)
 
