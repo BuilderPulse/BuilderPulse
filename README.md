@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 9
+## <a id="english"></a>💡 Today's build · May 10
 
-> **build a browser and API ID-collision canary report**
+> **build a login and checkout reachability audit**
 
-**Why now:** The UUID collision thread drew 267 comments, showing teams need randomness checks before customer IDs corrupt accounts
+**Why now:** 538 comments show login gates are blocking real users before teams can see failed sign-ins
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-09.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-09.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-10.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-10.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 9](en/2026/2026-05-09.md)**: 267 comments exposed the unique-ID assumption before accounts cross wires
-- **[May 8](en/2026/2026-05-08.md)**: 535 comments turned AI slop into a moderator evidence problem
-- **[May 7](en/2026/2026-05-07.md)**: 355 comments showed agent purchases need receipts before money moves
-- **[May 6](en/2026/2026-05-06.md)**: 889 comments made Chrome's 4 GB local AI footprint impossible to ignore
-- **[May 5](en/2026/2026-05-05.md)**: 152 comments turned hidden healthcare trackers into a compliance scan
-- **[May 4](en/2026/2026-05-04.md)**: 386 comments made terminal accessibility a release-blocking report
-- **[May 3](en/2026/2026-05-03.md)**: 469 comments turned AI co-author defaults into a Git history audit
+- **[May 10](en/2026/2026-05-10.md)**: 538 comments expose login gates quietly blocking buyers
+- **[May 9](en/2026/2026-05-09.md)**: 267 comments make impossible UUID collisions feel suddenly testable
+- **[May 8](en/2026/2026-05-08.md)**: 491 comments turn AI slop into moderator budget pressure
+- **[May 7](en/2026/2026-05-07.md)**: 355 comments show agents spending money before receipts exist
+- **[May 6](en/2026/2026-05-06.md)**: 889 comments reveal one 4 GB browser model becoming IT work
+- **[May 5](en/2026/2026-05-05.md)**: 152 comments make leaked healthcare form fields a launch risk
+- **[May 4](en/2026/2026-05-04.md)**: 308 comments put terminal accessibility back on release checklists
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月9日
+## <a id="chinese"></a>💡 今日建议 · 5月10日
 
-> **做一个 ID 碰撞预警报告**
+> **做一个登录付款可达性审计**
 
-**为什么是现在:** 267 条讨论说明，SaaS 团队今天需要先验证客户 ID 随机性再信任唯一性
+**为什么是现在:** 538 条讨论说明登录门禁正在先于团队发现失败登录而挡住真实用户
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-09.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-09.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-10.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-10.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月9日](zh/2026/2026-05-09.md)**: 267 条讨论把唯一 ID 变成上线前随机性审计
-- **[5月8日](zh/2026/2026-05-08.md)**: 535 条讨论说明 AI 垃圾内容需要发布前证据审查
-- **[5月7日](zh/2026/2026-05-07.md)**: 355 条讨论让 AI 助手购买动作必须留下收据
-- **[5月6日](zh/2026/2026-05-06.md)**: 889 条讨论把 Chrome 4 GB 本地 AI 变成管理员问题
-- **[5月5日](zh/2026/2026-05-05.md)**: 152 条讨论暴露医疗表单追踪的合规缺口
-- **[5月4日](zh/2026/2026-05-04.md)**: 386 条讨论让终端可访问性变成发布报告
-- **[5月3日](zh/2026/2026-05-03.md)**: 469 条讨论把 AI 共同作者默认项变成 Git 审计
+- **[5月10日](zh/2026/2026-05-10.md)**: 538 条讨论把登录门禁变成真实用户流失风险
+- **[5月9日](zh/2026/2026-05-09.md)**: 267 条讨论让 UUID 碰撞从不可能变成待检查
+- **[5月8日](zh/2026/2026-05-08.md)**: 491 条讨论把 AI 垃圾内容推到版主预算前
+- **[5月7日](zh/2026/2026-05-07.md)**: 355 条讨论显示智能体花钱前缺少收据
+- **[5月6日](zh/2026/2026-05-06.md)**: 889 条讨论让 4 GB 浏览器模型变成 IT 工作
+- **[5月5日](zh/2026/2026-05-05.md)**: 152 条讨论把医疗表单泄露变成上线风险
+- **[5月4日](zh/2026/2026-05-04.md)**: 308 条讨论把终端可访问性推回发布清单
 
 [完整归档 →](zh/)
 
