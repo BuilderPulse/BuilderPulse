@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 10
 
-> **build a login and checkout reachability audit**
+> **build a CaptchaReach Audit for blocked login and checkout paths**
 
-**Why now:** 538 comments show login gates are blocking real users before teams can see failed sign-ins
+**Why now:** 542 comments on reCAPTCHA failures show legitimate users are being blocked before SaaS teams notice lost sign-ins
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 10](en/2026/2026-05-10.md)**: 538 comments expose login gates quietly blocking buyers
-- **[May 9](en/2026/2026-05-09.md)**: 267 comments make impossible UUID collisions feel suddenly testable
-- **[May 8](en/2026/2026-05-08.md)**: 491 comments turn AI slop into moderator budget pressure
-- **[May 7](en/2026/2026-05-07.md)**: 355 comments show agents spending money before receipts exist
-- **[May 6](en/2026/2026-05-06.md)**: 889 comments reveal one 4 GB browser model becoming IT work
-- **[May 5](en/2026/2026-05-05.md)**: 152 comments make leaked healthcare form fields a launch risk
-- **[May 4](en/2026/2026-05-04.md)**: 308 comments put terminal accessibility back on release checklists
+- **[May 10](en/2026/2026-05-10.md)**: 542 comments made CAPTCHA reach a revenue leak waiting to surface
+- **[May 9](en/2026/2026-05-09.md)**: 267 comments exposed supposedly unique IDs failing in production
+- **[May 8](en/2026/2026-05-08.md)**: 491 comments show AI slop is now community maintenance debt
+- **[May 7](en/2026/2026-05-07.md)**: 355 comments put agent spending and deploy receipts on the table
+- **[May 6](en/2026/2026-05-06.md)**: 889 comments turned Chrome's 4 GB model into admin work
+- **[May 5](en/2026/2026-05-05.md)**: 152 comments made sensitive form fields a launch risk
+- **[May 4](en/2026/2026-05-04.md)**: 308 comments brought terminal accessibility back as a release blocker
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月10日
 
-> **做一个登录付款可达性审计**
+> **做一个登录触达审计报告**
 
-**为什么是现在:** 538 条讨论说明登录门禁正在先于团队发现失败登录而挡住真实用户
+**为什么是现在:** reCAPTCHA 故障已有 542 条讨论，真实用户被挡在登录和付款前需要马上被发现
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月10日](zh/2026/2026-05-10.md)**: 538 条讨论把登录门禁变成真实用户流失风险
-- **[5月9日](zh/2026/2026-05-09.md)**: 267 条讨论让 UUID 碰撞从不可能变成待检查
-- **[5月8日](zh/2026/2026-05-08.md)**: 491 条讨论把 AI 垃圾内容推到版主预算前
-- **[5月7日](zh/2026/2026-05-07.md)**: 355 条讨论显示智能体花钱前缺少收据
-- **[5月6日](zh/2026/2026-05-06.md)**: 889 条讨论让 4 GB 浏览器模型变成 IT 工作
-- **[5月5日](zh/2026/2026-05-05.md)**: 152 条讨论把医疗表单泄露变成上线风险
-- **[5月4日](zh/2026/2026-05-04.md)**: 308 条讨论把终端可访问性推回发布清单
+- **[5月10日](zh/2026/2026-05-10.md)**: 542 条讨论把 reCAPTCHA 故障变成收入流失问题
+- **[5月9日](zh/2026/2026-05-09.md)**: 267 条讨论提醒唯一 ID 也可能串线
+- **[5月8日](zh/2026/2026-05-08.md)**: 491 条讨论说明 AI 垃圾内容正在压垮社区审核
+- **[5月7日](zh/2026/2026-05-07.md)**: 355 条讨论让智能体花钱和部署必须留收据
+- **[5月6日](zh/2026/2026-05-06.md)**: 889 条讨论把 4 GB 浏览器模型变成管理员账单
+- **[5月5日](zh/2026/2026-05-05.md)**: 152 条讨论让医疗表单追踪变成上线风险
+- **[5月4日](zh/2026/2026-05-04.md)**: 308 条讨论把终端可访问性推回发布前检查
 
 [完整归档 →](zh/)
 
