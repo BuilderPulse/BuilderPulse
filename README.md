@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 11
 
-> **build a replay check for SaaS API idempotency**
+> **build a cloud exit receipt for AWS migration chores**
 
-**Why now:** Idempotency failures drew 174 comments while retries now threaten payment, order, and account data
+**Why now:** 506 comments show small teams need AWS exit paperwork translated before migration becomes a compliance project
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 11](en/2026/2026-05-11.md)**: 174 comments put API retries between clean orders and corruption
-- **[May 10](en/2026/2026-05-10.md)**: 542 comments made anti-abuse look like lost customers
-- **[May 9](en/2026/2026-05-09.md)**: 267 comments made impossible UUID collisions feel operational
-- **[May 8](en/2026/2026-05-08.md)**: 491 comments showed AI slop can poison communities fast
-- **[May 7](en/2026/2026-05-07.md)**: 355 comments showed agents can now spend before approval
-- **[May 6](en/2026/2026-05-06.md)**: 889 comments turned Chrome's 4 GB AI into an admin bill
-- **[May 5](en/2026/2026-05-05.md)**: 152 comments put healthcare form tracking on the launch checklist
+- **[May 11](en/2026/2026-05-11.md)**: 506 comments expose AWS exit paperwork nobody budgets for
+- **[May 10](en/2026/2026-05-10.md)**: 542 comments show reCAPTCHA can lock out real customers
+- **[May 9](en/2026/2026-05-09.md)**: 267 comments ask what happens when unique IDs collide
+- **[May 8](en/2026/2026-05-08.md)**: 491 comments show AI slop becoming community maintenance
+- **[May 7](en/2026/2026-05-07.md)**: 355 comments push agents from demos into spending money
+- **[May 6](en/2026/2026-05-06.md)**: 889 comments turn Chrome AI into an IT bill
+- **[May 5](en/2026/2026-05-05.md)**: 152 comments turn healthcare form tracking into launch risk
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月11日
 
-> **做一个SaaS API幂等重放检查**
+> **做一个 AWS 退出收据报告**
 
-**为什么是现在:** 幂等失败今天引发174条讨论，重试已经会改错支付、订单和账户数据
+**为什么是现在:** 506 条评论说明小团队今天需要把 AWS 账单和迁移风险翻译成退出计划
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月11日](zh/2026/2026-05-11.md)**: 幂等失败有174条讨论，重试可能改错订单和账户
-- **[5月10日](zh/2026/2026-05-10.md)**: reCAPTCHA故障引发542条讨论，真实用户可能被挡在门外
-- **[5月9日](zh/2026/2026-05-09.md)**: UUID碰撞引发267条讨论，唯一ID也可能串线
-- **[5月8日](zh/2026/2026-05-08.md)**: AI slop引发491条讨论，社区信任开始漏水
-- **[5月7日](zh/2026/2026-05-07.md)**: 智能体动作引发355条讨论，花钱前需要收据
-- **[5月6日](zh/2026/2026-05-06.md)**: Chrome 4 GB模型引发889条讨论，管理员账单来了
-- **[5月5日](zh/2026/2026-05-05.md)**: 医疗表单追踪引发152条讨论，隐私证据变成上线门槛
+- **[5月11日](zh/2026/2026-05-11.md)**: 506 条评论把 AWS 退出表格变成今天的买家清单
+- **[5月10日](zh/2026/2026-05-10.md)**: 542 条讨论显示 reCAPTCHA 可能挡住真实客户
+- **[5月9日](zh/2026/2026-05-09.md)**: 267 条讨论追问唯一 ID 碰撞后会发生什么
+- **[5月8日](zh/2026/2026-05-08.md)**: 491 条讨论显示 AI slop 正在变成社区维护
+- **[5月7日](zh/2026/2026-05-07.md)**: 355 条讨论把智能体从演示推向真实花钱
+- **[5月6日](zh/2026/2026-05-06.md)**: 889 条讨论把 Chrome AI 变成 IT 账单
+- **[5月5日](zh/2026/2026-05-05.md)**: 152 条讨论让医疗表单追踪变成上线风险
 
 [完整归档 →](zh/)
 
