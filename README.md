@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 13
 
-> **build a tiny tool-call fit report for app teams**
+> **build a tool-call fit report for app teams**
 
-**Why now:** Needle drew 98 comments because teams want tiny local command parsing before cloud assistants touch actions
+**Why now:** Needle drew 124 comments from app teams needing cheap, private command handling
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 13](en/2026/2026-05-13.md)**: Needle drew 98 comments, but which commands stay local
-- **[May 12](en/2026/2026-05-12.md)**: TanStack shipped 84 malicious versions across 42 packages, who was exposed
-- **[May 11](en/2026/2026-05-11.md)**: AWS exit pain drew 506 comments, what would leaving actually take
-- **[May 10](en/2026/2026-05-10.md)**: reCAPTCHA failures drew 542 comments, who is your login quietly blocking
-- **[May 9](en/2026/2026-05-09.md)**: UUID collision drew 267 comments, what if unique IDs are not
-- **[May 8](en/2026/2026-05-08.md)**: AI slop drew 491 Hacker News comments, can communities still trust posts
-- **[May 7](en/2026/2026-05-07.md)**: Cloudflare agent actions drew 355 comments, who approves the spend
+- **[May 13](en/2026/2026-05-13.md)**: Can tiny models safely run app commands after 124 comments?
+- **[May 12](en/2026/2026-05-12.md)**: 84 malicious versions turned installs into rotation work; what leaked?
+- **[May 11](en/2026/2026-05-11.md)**: 506 comments made AWS exits feel like compliance; who owns the bill?
+- **[May 10](en/2026/2026-05-10.md)**: 542 comments show login gates blocking real users; who disappeared?
+- **[May 9](en/2026/2026-05-09.md)**: 267 comments questioned unique IDs; what if randomness lied?
+- **[May 8](en/2026/2026-05-08.md)**: 491 comments made AI slop a community maintenance problem; who checks?
+- **[May 7](en/2026/2026-05-07.md)**: 355 comments put AI agents near spending; who approves?
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月13日
 
-> **做一个小型命令适配报告**
+> **做一个工具调用适配度报告**
 
-**为什么是现在:** Needle 引发 98 条讨论，说明团队今天需要先验证哪些命令能本地安全执行
+**为什么是现在:** Needle 今天引发 124 条讨论，应用团队正需要便宜私密的命令处理
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月13日](zh/2026/2026-05-13.md)**: Needle 引发 98 条讨论，本地命令能不能先过关
-- **[5月12日](zh/2026/2026-05-12.md)**: TanStack 84 个恶意版本影响 42 个包，谁该先轮换凭证
-- **[5月11日](zh/2026/2026-05-11.md)**: AWS 退出痛点引发 506 条评论，离开前到底要清什么
-- **[5月10日](zh/2026/2026-05-10.md)**: reCAPTCHA 故障引发 542 条讨论，哪些真实用户被挡住
-- **[5月9日](zh/2026/2026-05-09.md)**: UUID 碰撞引发 267 条讨论，唯一 ID 还可靠吗
-- **[5月8日](zh/2026/2026-05-08.md)**: AI slop 引发 491 条讨论，社区还能信哪些内容
-- **[5月7日](zh/2026/2026-05-07.md)**: Cloudflare 智能体动作引发 355 条讨论，谁批准花钱
+- **[5月13日](zh/2026/2026-05-13.md)**: 124 条讨论把微型命令模型推到台前，哪些动作能本地跑？
+- **[5月12日](zh/2026/2026-05-12.md)**: 84 个恶意版本把安装变成轮换清单，哪些密钥碰过？
+- **[5月11日](zh/2026/2026-05-11.md)**: 506 条评论说明 AWS 退出像合规项目，谁负责这张账单？
+- **[5月10日](zh/2026/2026-05-10.md)**: 542 条讨论显示登录入口会误伤用户，谁被挡在门外？
+- **[5月9日](zh/2026/2026-05-09.md)**: 267 条讨论质疑唯一 ID，随机性真的可靠吗？
+- **[5月8日](zh/2026/2026-05-08.md)**: 491 条讨论让 AI 垃圾内容变成社区维护题，谁来核查？
+- **[5月7日](zh/2026/2026-05-07.md)**: 355 条讨论显示智能体开始花钱和部署，谁先审批？
 
 [完整归档 →](zh/)
 
