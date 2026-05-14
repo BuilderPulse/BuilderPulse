@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 14
 
-> **build a SaaS ownership and jurisdiction receipt**
+> **build a vendor-location report for founders facing data residency checks**
 
-**Why now:** Small teams have 536 comments of migration pain around who owns their SaaS stack
+**Why now:** The 543 comments on moving a digital stack to Europe show vendor location is now sales risk
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 14](en/2026/2026-05-14.md)**: 536 comments ask who really owns your SaaS stack
-- **[May 13](en/2026/2026-05-13.md)**: 124 comments question whether tiny models can safely run commands
-- **[May 12](en/2026/2026-05-12.md)**: 84 malicious npm versions turn installs into credential cleanup
-- **[May 11](en/2026/2026-05-11.md)**: 506 comments make AWS exit paperwork feel unavoidable
-- **[May 10](en/2026/2026-05-10.md)**: 542 comments show login checks quietly blocking real customers
-- **[May 9](en/2026/2026-05-09.md)**: 267 comments expose the risk inside supposedly unique IDs
-- **[May 8](en/2026/2026-05-08.md)**: 491 comments show AI slop turning communities into review queues
+- **[May 14](en/2026/2026-05-14.md)**: 543 comments made vendor location a sales blocker
+- **[May 13](en/2026/2026-05-13.md)**: 124 comments ask which app commands can stay local
+- **[May 12](en/2026/2026-05-12.md)**: 84 malicious versions turned installs into credential-rotation work
+- **[May 11](en/2026/2026-05-11.md)**: 506 comments made AWS exits feel like compliance work
+- **[May 10](en/2026/2026-05-10.md)**: 542 comments show anti-abuse gates can block real customers
+- **[May 9](en/2026/2026-05-09.md)**: 267 comments made impossible UUID collisions feel operational
+- **[May 8](en/2026/2026-05-08.md)**: 491 comments show AI slop is now moderator labor
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月14日
 
-> **做一个 SaaS 所有权迁移报告**
+> **做一个供应商位置报告**
 
-**为什么是现在:** 536 条讨论说明小团队今天正在追问 SaaS 技术栈到底归谁
+**为什么是现在:** 欧洲技术栈迁移引发543条讨论，说明供应商位置已经会卡住销售
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月14日](zh/2026/2026-05-14.md)**: 536 条讨论追问你的 SaaS 技术栈到底归谁
-- **[5月13日](zh/2026/2026-05-13.md)**: 124 条讨论把小模型命令处理推到台前
-- **[5月12日](zh/2026/2026-05-12.md)**: 84 个恶意 npm 版本把安装变成凭证清理
-- **[5月11日](zh/2026/2026-05-11.md)**: 506 条讨论让 AWS 退出清单显得躲不开
-- **[5月10日](zh/2026/2026-05-10.md)**: 542 条讨论显示登录检查正在误伤真实用户
-- **[5月9日](zh/2026/2026-05-09.md)**: 267 条讨论暴露唯一 ID 背后的随机性风险
-- **[5月8日](zh/2026/2026-05-08.md)**: 491 条讨论说明 AI slop 正把社区拖进审核队列
+- **[5月14日](zh/2026/2026-05-14.md)**: 欧洲技术栈543条讨论，把供应商位置推成销售风险
+- **[5月13日](zh/2026/2026-05-13.md)**: Needle引发124条讨论，哪些命令该留在本地
+- **[5月12日](zh/2026/2026-05-12.md)**: 84个恶意版本，让安装变成凭证轮换工作
+- **[5月11日](zh/2026/2026-05-11.md)**: AWS退出506条讨论，离开云像合规项目
+- **[5月10日](zh/2026/2026-05-10.md)**: reCAPTCHA故障542条讨论，真实客户会被挡住
+- **[5月9日](zh/2026/2026-05-09.md)**: UUID碰撞267条讨论，不可能故障开始落地
+- **[5月8日](zh/2026/2026-05-08.md)**: AI slop 491条讨论，社区审核压力来了
 
 [完整归档 →](zh/)
 
