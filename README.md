@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 15
+## <a id="english"></a>💡 Today's build · May 16
 
-> **build a one-page agent cost and permission report**
+> **build a repo-maintenance report for AI-shipped code**
 
-**Why now:** A 55,000 token connector warning makes agent costs visible before finance sees a surprise bill
+**Why now:** 338 comments show teams need a repo triage report before AI-made systems become unowned repair work
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-15.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-15.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-16.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-16.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 15](en/2026/2026-05-15.md)**: 55,000 tokens in one connector make agent bills harder to ignore
-- **[May 14](en/2026/2026-05-14.md)**: 543 comments make vendor location a founder risk
-- **[May 13](en/2026/2026-05-13.md)**: 124 comments put tiny tool-calling models near real buttons
-- **[May 12](en/2026/2026-05-12.md)**: 84 malicious package versions turn lockfiles into panic receipts
-- **[May 11](en/2026/2026-05-11.md)**: 506 comments expose cloud exit paperwork before migration starts
-- **[May 10](en/2026/2026-05-10.md)**: 542 comments show legitimate users can vanish at login
-- **[May 9](en/2026/2026-05-09.md)**: 267 comments make unique IDs feel less guaranteed
+- **[May 16](en/2026/2026-05-16.md)**: 338 comments turned AI shipping into repair work
+- **[May 15](en/2026/2026-05-15.md)**: A 55,000-token connector can become tomorrow's surprise bill
+- **[May 14](en/2026/2026-05-14.md)**: 543 comments made data residency a sales risk
+- **[May 13](en/2026/2026-05-13.md)**: A 26M model raises one local-command question
+- **[May 12](en/2026/2026-05-12.md)**: 84 malicious npm versions left teams asking what leaked
+- **[May 11](en/2026/2026-05-11.md)**: 506 comments exposed how painful leaving AWS still is
+- **[May 10](en/2026/2026-05-10.md)**: 542 comments show login gates can quietly block customers
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月15日
+## <a id="chinese"></a>💡 今日建议 · 5月16日
 
-> **做一个智能体成本与权限报告**
+> **做一个 AI 发货仓库维护报告**
 
-**为什么是现在:** 55,000 token 连接器开销已经出现，今天正适合做智能体成本与权限报告
+**为什么是现在:** 338 条讨论说明团队今天需要仓库分诊报告，先接住 AI 过快发货后的维护债
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-15.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-15.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-16.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-16.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月15日](zh/2026/2026-05-15.md)**: 55,000 token 连接器让智能体账单不再好忽略
-- **[5月14日](zh/2026/2026-05-14.md)**: 543 条讨论把供应商位置变成创始人风险
-- **[5月13日](zh/2026/2026-05-13.md)**: 124 条讨论让微型工具调用模型靠近真实按钮
-- **[5月12日](zh/2026/2026-05-12.md)**: 84 个恶意版本让 lockfile 变成应急收据
-- **[5月11日](zh/2026/2026-05-11.md)**: 506 条讨论暴露云迁移前的退出成本
-- **[5月10日](zh/2026/2026-05-10.md)**: 542 条讨论说明真实用户可能卡在登录前
-- **[5月9日](zh/2026/2026-05-09.md)**: 267 条讨论让唯一 ID 的假设开始松动
+- **[5月16日](zh/2026/2026-05-16.md)**: 338 条讨论把 AI 发货变成维护账单
+- **[5月15日](zh/2026/2026-05-15.md)**: 55,000 token 连接器可能变成下一张意外账单
+- **[5月14日](zh/2026/2026-05-14.md)**: 543 条讨论让数据驻留变成销售风险
+- **[5月13日](zh/2026/2026-05-13.md)**: 26M 模型逼出本地命令边界问题
+- **[5月12日](zh/2026/2026-05-12.md)**: 84 个恶意 npm 版本让团队追问泄露范围
+- **[5月11日](zh/2026/2026-05-11.md)**: 506 条讨论暴露 AWS 退出仍然很痛
+- **[5月10日](zh/2026/2026-05-10.md)**: 542 条讨论说明登录门槛会悄悄挡住客户
 
 [完整归档 →](zh/)
 
