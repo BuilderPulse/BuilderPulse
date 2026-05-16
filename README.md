@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 16
 
-> **build a repo-maintenance report for AI-shipped code**
+> **build a repo-maintenance triage report for AI-shipped code**
 
-**Why now:** 338 comments show teams need a repo triage report before AI-made systems become unowned repair work
+**Why now:** 440 comments turned AI anxiety into a maintenance bill founders can no longer ignore
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 16](en/2026/2026-05-16.md)**: 338 comments turned AI shipping into repair work
-- **[May 15](en/2026/2026-05-15.md)**: A 55,000-token connector can become tomorrow's surprise bill
-- **[May 14](en/2026/2026-05-14.md)**: 543 comments made data residency a sales risk
-- **[May 13](en/2026/2026-05-13.md)**: A 26M model raises one local-command question
-- **[May 12](en/2026/2026-05-12.md)**: 84 malicious npm versions left teams asking what leaked
-- **[May 11](en/2026/2026-05-11.md)**: 506 comments exposed how painful leaving AWS still is
-- **[May 10](en/2026/2026-05-10.md)**: 542 comments show login gates can quietly block customers
+- **[May 16](en/2026/2026-05-16.md)**: 440 comments expose AI code nobody owns yet
+- **[May 15](en/2026/2026-05-15.md)**: 55,000 tokens in one connector could trigger a surprise invoice
+- **[May 14](en/2026/2026-05-14.md)**: 543 comments make data residency a sales blocker
+- **[May 13](en/2026/2026-05-13.md)**: Needle uses 26M parameters to test local commands
+- **[May 12](en/2026/2026-05-12.md)**: 84 malicious versions turn lockfiles into rotation work
+- **[May 11](en/2026/2026-05-11.md)**: 506 comments show AWS exits still hide paperwork
+- **[May 10](en/2026/2026-05-10.md)**: 542 comments reveal login gates quietly losing real users
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月16日
 
-> **做一个 AI 发货仓库维护报告**
+> **做一个 AI 仓库维护债报告**
 
-**为什么是现在:** 338 条讨论说明团队今天需要仓库分诊报告，先接住 AI 过快发货后的维护债
+**为什么是现在:** 440 条讨论把 AI 焦虑变成了创始人今天必须处理的维护账单
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月16日](zh/2026/2026-05-16.md)**: 338 条讨论把 AI 发货变成维护账单
-- **[5月15日](zh/2026/2026-05-15.md)**: 55,000 token 连接器可能变成下一张意外账单
+- **[5月16日](zh/2026/2026-05-16.md)**: 440 条讨论把 AI 代码维护债推到台前
+- **[5月15日](zh/2026/2026-05-15.md)**: 55,000 个 token 连接器可能变成下一张意外账单
 - **[5月14日](zh/2026/2026-05-14.md)**: 543 条讨论让数据驻留变成销售风险
-- **[5月13日](zh/2026/2026-05-13.md)**: 26M 模型逼出本地命令边界问题
-- **[5月12日](zh/2026/2026-05-12.md)**: 84 个恶意 npm 版本让团队追问泄露范围
-- **[5月11日](zh/2026/2026-05-11.md)**: 506 条讨论暴露 AWS 退出仍然很痛
-- **[5月10日](zh/2026/2026-05-10.md)**: 542 条讨论说明登录门槛会悄悄挡住客户
+- **[5月13日](zh/2026/2026-05-13.md)**: 26M 参数模型逼应用团队重想本地命令
+- **[5月12日](zh/2026/2026-05-12.md)**: 84 个恶意版本把 lockfile 变成轮换清单
+- **[5月11日](zh/2026/2026-05-11.md)**: 506 条讨论说明离开 AWS 仍像合规项目
+- **[5月10日](zh/2026/2026-05-10.md)**: 542 条讨论暴露登录门槛正在误伤真用户
 
 [完整归档 →](zh/)
 
