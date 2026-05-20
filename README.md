@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 20
 
-> **build a repo and workstation audit for AI-session hooks**
+> **build a coding assistant hook infection checker**
 
-**Why now:** A compromise across 317 npm packages now targets AI-session hooks, making repo auto-run audits urgent
+**Why now:** A compromise across 317 affected packages now reaches assistant hooks, making startup-path audits urgent for Claude Code and Codex teams
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 20](en/2026/2026-05-20.md)**: 317 packages made AI-session hooks a supply-chain target; who checks auto-runs
-- **[May 19](en/2026/2026-05-19.md)**: 293 comments made export rights feel like custody; what breaks after cancellation
-- **[May 18](en/2026/2026-05-18.md)**: 98% fewer tokens sounds cheap; will agents trust the search
-- **[May 17](en/2026/2026-05-17.md)**: 342 comments made UUID collisions operational; which records can overwrite
-- **[May 16](en/2026/2026-05-16.md)**: 440 comments turned AI-written code into a maintenance bill; who owns repair
-- **[May 15](en/2026/2026-05-15.md)**: 55,000 tokens and $2,000 bills expose agent connectors; who approved them
-- **[May 14](en/2026/2026-05-14.md)**: 543 comments made data residency a sales blocker; where does work live
+- **[May 20](en/2026/2026-05-20.md)**: 317 affected npm packages put assistant hooks under suspicion?
+- **[May 19](en/2026/2026-05-19.md)**: 293 comments turn export paths into a custody fight?
+- **[May 18](en/2026/2026-05-18.md)**: 84 comments questioned whether agent search really saves tokens?
+- **[May 17](en/2026/2026-05-17.md)**: 342 comments exposed one UUID collision nobody budgeted for?
+- **[May 16](en/2026/2026-05-16.md)**: 440 comments turned AI rescue consulting into maintenance debt?
+- **[May 15](en/2026/2026-05-15.md)**: 55,000 tokens and $2,000 editor invoices make connector sprawl visible?
+- **[May 14](en/2026/2026-05-14.md)**: 543 comments made data residency a sales blocker?
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月20日
 
-> **做一个AI会话钩子感染检查工具**
+> **做一个编码助手 hook 感染检查器**
 
-**为什么是现在:** 317 个 npm 包被入侵且瞄准 AI 会话钩子，今天适合做自动运行审计工具
+**为什么是现在:** 317 个受影响包已经把风险推到编码助手 hooks，今天适合做启动路径审计
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月20日](zh/2026/2026-05-20.md)**: 317 个包让 AI 会话钩子成了供应链入口 谁来查自动运行
-- **[5月19日](zh/2026/2026-05-19.md)**: 293 条讨论把导出权变成托管问题 退订后什么会坏
-- **[5月18日](zh/2026/2026-05-18.md)**: 98% token 节省听起来诱人 智能体会信任搜索吗
-- **[5月17日](zh/2026/2026-05-17.md)**: 342 条讨论让 UUID 碰撞变成运营风险 哪些记录会被覆盖
-- **[5月16日](zh/2026/2026-05-16.md)**: 440 条讨论把 AI 代码变成维护账单 谁来接手修复
-- **[5月15日](zh/2026/2026-05-15.md)**: 55,000 token 和 $2,000 账单暴露 agent 连接器 谁批准了它
-- **[5月14日](zh/2026/2026-05-14.md)**: 543 条讨论让数据驻留变成销售阻碍 工作到底住在哪
+- **[5月20日](zh/2026/2026-05-20.md)**: 317 个受影响包，让编码助手 hooks 成了审计焦点
+- **[5月19日](zh/2026/2026-05-19.md)**: 293 条讨论，把导出路径变成工作托管权问题
+- **[5月18日](zh/2026/2026-05-18.md)**: 84 条讨论追问，智能体搜索到底省不省 token
+- **[5月17日](zh/2026/2026-05-17.md)**: 342 条讨论证明，一次 UUID 碰撞就够疼
+- **[5月16日](zh/2026/2026-05-16.md)**: 440 条讨论把 AI rescue consulting 变成维护账单
+- **[5月15日](zh/2026/2026-05-15.md)**: 55,000 个 token 和 $2,000 发票，让连接器成本现形
+- **[5月14日](zh/2026/2026-05-14.md)**: 543 条讨论让数据驻留变成销售阻塞点
 
 [完整归档 →](zh/)
 
