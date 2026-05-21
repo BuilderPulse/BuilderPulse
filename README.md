@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 21
 
-> **build a team extension and AI connector trust receipt**
+> **build a VS Code extension trust receipt for AI connectors**
 
-**Why now:** GitHub confirmed 3,800 repos exposed through one extension, making agent connector access worth auditing today
+**Why now:** A 3,800 repositories breached via a VS Code extension, while 235 comments show teams need editor-trust evidence today
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 21](en/2026/2026-05-21.md)**: 3,800 exposed repos made editor extensions look dangerous?
-- **[May 20](en/2026/2026-05-20.md)**: 637 malicious npm versions found the assistant startup path?
-- **[May 19](en/2026/2026-05-19.md)**: 293 comments made project export feel urgent?
-- **[May 18](en/2026/2026-05-18.md)**: 84 comments asked whether agent search can be trusted?
-- **[May 17](en/2026/2026-05-17.md)**: 342 comments turned UUID assumptions into operational risk?
-- **[May 16](en/2026/2026-05-16.md)**: 440 comments turned AI-written code into maintenance debt?
-- **[May 15](en/2026/2026-05-15.md)**: 55,000 tokens in one connector can become a surprise invoice?
+- **[May 21](en/2026/2026-05-21.md)**: 3,800 repositories exposed editor trust; what can your tools touch?
+- **[May 20](en/2026/2026-05-20.md)**: 317 npm packages targeted assistant hooks; what starts before you notice?
+- **[May 19](en/2026/2026-05-19.md)**: 293 comments asked whether work can leave; what gets trapped?
+- **[May 18](en/2026/2026-05-18.md)**: 84 comments challenged agent search savings; what did the assistant miss?
+- **[May 17](en/2026/2026-05-17.md)**: 342 comments turned UUID safety urgent; which record breaks first?
+- **[May 16](en/2026/2026-05-16.md)**: 440 comments named AI rescue work; which files no one owns?
+- **[May 15](en/2026/2026-05-15.md)**: 55,000 tokens made agent connectors a finance problem; who approved them?
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月21日
 
-> **做一个扩展与 AI 连接器审计**
+> **做一个编辑器扩展信任报告**
 
-**为什么是现在:** GitHub 确认 3,800 个仓库因恶意扩展暴露，今天正适合审计扩展和 AI 连接器权限
+**为什么是现在:** 3,800 个仓库因 VS Code 扩展受影响，235 条讨论说明团队今天需要编辑器信任证据
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月21日](zh/2026/2026-05-21.md)**: 3,800 个仓库暴露后 扩展权限还敢不查吗
-- **[5月20日](zh/2026/2026-05-20.md)**: 637 个恶意版本瞄准启动 hooks 谁来清点
-- **[5月19日](zh/2026/2026-05-19.md)**: 293 条讨论之后 项目还能不能带走
-- **[5月18日](zh/2026/2026-05-18.md)**: 84 条讨论追问 智能体搜索到底省不省
-- **[5月17日](zh/2026/2026-05-17.md)**: 342 条讨论之后 UUID 还敢默认安全吗
-- **[5月16日](zh/2026/2026-05-16.md)**: 440 条讨论把 AI 代码变成维护账单
-- **[5月15日](zh/2026/2026-05-15.md)**: 55,000 个 token 的连接器 会不会变成下一张账单
+- **[5月21日](zh/2026/2026-05-21.md)**: 3,800 个仓库让编辑器信任变成预算问题，哪些工具能碰代码
+- **[5月20日](zh/2026/2026-05-20.md)**: 317 个 npm 包盯上助手 hooks，谁在开机前运行
+- **[5月19日](zh/2026/2026-05-19.md)**: 293 条讨论追问项目能否导出，哪些工作被困住
+- **[5月18日](zh/2026/2026-05-18.md)**: 84 条讨论质疑 agent 搜索省 tokens，哪些文件被漏掉
+- **[5月17日](zh/2026/2026-05-17.md)**: 342 条讨论把 UUID 碰撞变成风险，哪条记录先坏
+- **[5月16日](zh/2026/2026-05-16.md)**: 440 条讨论点出 AI 救援咨询，哪些文件没人敢接
+- **[5月15日](zh/2026/2026-05-15.md)**: 55,000 tokens 让 agent 连接器变成账单风险，谁批准了
 
 [完整归档 →](zh/)
 
