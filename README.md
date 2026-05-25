@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 25
 
-> **build a Model Price Switchboard**
+> **build a model price switchboard report**
 
-**Why now:** DeepSeek's permanent discount sparked 478 comments about cost and privacy, making neutral prompt-routing advice urgent
+**Why now:** DeepSeek's permanent V4 Pro cut drew 511 comments around cost, privacy, and routing for coding teams
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 25](en/2026/2026-05-25.md)**: DeepSeek's 478 comments turn cheap tokens into a routing question
-- **[May 24](en/2026/2026-05-24.md)**: A visa rule drew 1,253 comments; who is affected now?
-- **[May 23](en/2026/2026-05-23.md)**: AI plagiarism drew 719 comments; who can prove reuse?
-- **[May 22](en/2026/2026-05-22.md)**: NoSlop drew 319 comments; who owns the actual ask?
-- **[May 21](en/2026/2026-05-21.md)**: A breach hit 3,800 repositories; which extensions can still run?
-- **[May 20](en/2026/2026-05-20.md)**: 317 npm packages were hit; what did assistant hooks inherit?
-- **[May 19](en/2026/2026-05-19.md)**: Files.md drew 293 comments; can your work leave cleanly?
+- **[May 25](en/2026/2026-05-25.md)**: DeepSeek pricing drew 511 comments; routing choices got uncomfortable
+- **[May 24](en/2026/2026-05-24.md)**: Green-card change drew 1,253 comments; startup ops suddenly got personal
+- **[May 23](en/2026/2026-05-23.md)**: AI plagiarism drew 719 comments; source credit became operational
+- **[May 22](en/2026/2026-05-22.md)**: AI reply sludge drew 319 comments; review time is leaking
+- **[May 21](en/2026/2026-05-21.md)**: A VS Code extension touched 3,800 repositories; trust moved upstream
+- **[May 20](en/2026/2026-05-20.md)**: npm malware hit 317 packages; assistant startup hooks are now suspect
+- **[May 19](en/2026/2026-05-19.md)**: Files.md drew 293 comments; export custody became urgent
 
 [Full archive →](en/)
 
@@ -38,7 +38,7 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 > **做一个模型价格路由报告**
 
-**为什么是现在:** DeepSeek 永久折扣引发 478 条讨论，今天正适合做模型价格路由报告
+**为什么是现在:** DeepSeek V4 Pro 永久降价引发 511 条评论，今天正适合做编码任务路由报告
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月25日](zh/2026/2026-05-25.md)**: DeepSeek 定价引发 478 条讨论，便宜 tokens 该交给谁
-- **[5月24日](zh/2026/2026-05-24.md)**: 绿卡规则引发 1,253 条讨论，团队里谁先受影响
-- **[5月23日](zh/2026/2026-05-23.md)**: AI 抄袭引发 719 条讨论，谁能证明作品被拿走
-- **[5月22日](zh/2026/2026-05-22.md)**: NoSlop 引发 319 条讨论，AI 长回复到底谁负责
-- **[5月21日](zh/2026/2026-05-21.md)**: 3,800 个仓库泄露后，哪些编辑器扩展还能信
-- **[5月20日](zh/2026/2026-05-20.md)**: 317 个 npm 包中招后，assistant hooks 还安全吗
-- **[5月19日](zh/2026/2026-05-19.md)**: Files.md 引发 293 条讨论，作品还能干净带走吗
+- **[5月25日](zh/2026/2026-05-25.md)**: DeepSeek 定价引发 511 条评论，模型路由开始变成账单问题
+- **[5月24日](zh/2026/2026-05-24.md)**: 绿卡新规引发 1,253 条讨论，创业团队运营突然变私人
+- **[5月23日](zh/2026/2026-05-23.md)**: AI 抄袭引发 719 条讨论，来源署名开始变成运营问题
+- **[5月22日](zh/2026/2026-05-22.md)**: AI 废话引发 319 条讨论，审核时间正在流失
+- **[5月21日](zh/2026/2026-05-21.md)**: VS Code 扩展事件影响 3,800 个仓库，编辑器信任变成预算问题
+- **[5月20日](zh/2026/2026-05-20.md)**: npm 恶意软件击中 317 个包，助手启动 hooks 开始危险
+- **[5月19日](zh/2026/2026-05-19.md)**: Files.md 引发 293 条讨论，项目导出权开始变紧急
 
 [完整归档 →](zh/)
 
