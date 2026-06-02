@@ -7,51 +7,51 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Jun 1
+## <a id="english"></a>💡 Today's build · Jun 2
 
-> **build a bot-gate compatibility receipt for SaaS signup and checkout**
+> **build a recovery flow audit receipt for SaaS support teams**
 
-**Why now:** Cloudflare Turnstile drew 278 comments because privacy-browser users can be blocked before signup, checkout, or support sees them
+**Why now:** 323 comments exposed account recovery as the AI support boundary SaaS owners can audit today
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-01.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-01.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-02.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-02.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Jun 1](en/2026/2026-06-01.md)**: 278 comments show bot gates blocking real buyers before signup
-- **[May 31](en/2026/2026-05-31.md)**: 371 comments expose MCP overhead before teams notice broken tools
-- **[May 28](en/2026/2026-05-28.md)**: 897 comments mask a quieter failed-payment leak founders can recover
-- **[May 27](en/2026/2026-05-27.md)**: 417 comments turn AI coding speed into review debt
-- **[May 26](en/2026/2026-05-26.md)**: 37 comments expose which private files AI can quote
+- **[Jun 2](en/2026/2026-06-02.md)**: 323 comments exposed AI support resets; whose account can be taken next?
+- **[Jun 1](en/2026/2026-06-01.md)**: 278 comments showed bot gates blocking real users; which signup vanishes?
+- **[May 31](en/2026/2026-05-31.md)**: 371 comments questioned MCP reliability; which tool call fails under work?
+- **[May 28](en/2026/2026-05-28.md)**: Failed payments surfaced beside $1,078 in ads; what cash leaked?
+- **[May 27](en/2026/2026-05-27.md)**: 417 comments slowed AI coding down; who owns the review?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 6月1日
+## <a id="chinese"></a>💡 今日建议 · 6月2日
 
-> **做一个SaaS门禁兼容性回执**
+> **做一个账号恢复审计收据**
 
-**为什么是现在:** Cloudflare Turnstile 引发 278 条讨论，说明隐私浏览器用户可能在注册和付款前就被挡住
+**为什么是现在:** 323 条讨论把账号恢复暴露成今天最该审计的 AI 客服边界
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-01.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-01.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-02.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-02.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[6月1日](zh/2026/2026-06-01.md)**: Cloudflare 278 条讨论暴露注册前的真人流失
-- **[5月31日](zh/2026/2026-05-31.md)**: MCP 371 条讨论暴露工具连接还没开工就耗损
-- **[5月28日](zh/2026/2026-05-28.md)**: 897 条讨论之外，失败付款漏损更像真钱机会
-- **[5月27日](zh/2026/2026-05-27.md)**: 417 条讨论把 AI 编程速度变成评审债
-- **[5月26日](zh/2026/2026-05-26.md)**: 37 条评论追问 AI 同事能引用哪些私有文件
+- **[6月2日](zh/2026/2026-06-02.md)**: 323 条讨论暴露 AI 客服重置风险 下个账号是谁
+- **[6月1日](zh/2026/2026-06-01.md)**: 278 条讨论显示机器人门禁挡住真人 哪次注册漏掉了
+- **[5月31日](zh/2026/2026-05-31.md)**: 371 条讨论质疑 MCP 可靠性 哪个工具调用先失败
+- **[5月28日](zh/2026/2026-05-28.md)**: 花掉 $1,078 广告费后 失败付款还漏掉多少现金
+- **[5月27日](zh/2026/2026-05-27.md)**: 417 条讨论让 AI 编程慢下来 评审责任归谁
 
 [完整归档 →](zh/)
 
