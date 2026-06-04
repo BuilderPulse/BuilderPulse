@@ -7,51 +7,51 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Jun 3
+## <a id="english"></a>💡 Today's build · Jun 4
 
-> **build a buyer-evidence receipt for solo founders**
+> **build a per-team AI coding seat cap ledger**
 
-**Why now:** 251 job-spam comments show founders need buyer-evidence checks before another outreach blast
+**Why now:** Uber's $1,500/month cap and 466 comments make AI coding spend a manager-owned budget problem today
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-03.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-03.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-04.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-04.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Jun 3](en/2026/2026-06-03.md)**: 251 job-spam comments expose the buyer-proof gap
-- **[Jun 2](en/2026/2026-06-02.md)**: 323 comments expose account recovery as an AI support risk
-- **[Jun 1](en/2026/2026-06-01.md)**: 278 comments show bot gates quietly blocking real signups
-- **[May 31](en/2026/2026-05-31.md)**: 371 comments reveal MCP connections wasting context before work starts
-- **[May 28](en/2026/2026-05-28.md)**: 11 Recurflux comments point to failed-payment leakage hiding in dashboards
+- **[Jun 4](en/2026/2026-06-04.md)**: 466 comments turned AI coding spend into a budget fight
+- **[Jun 3](en/2026/2026-06-03.md)**: 1,015 comments made founder outreach look more like spam
+- **[Jun 2](en/2026/2026-06-02.md)**: 323 comments showed account recovery can become the attacker
+- **[Jun 1](en/2026/2026-06-01.md)**: 278 comments showed anti-bot gates can reject real buyers
+- **[May 31](en/2026/2026-05-31.md)**: 371 comments turned MCP reliability into a rollout blocker
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 6月3日
+## <a id="chinese"></a>💡 今日建议 · 6月4日
 
-> **做一个买家证据报告**
+> **做一个团队 AI 编程席位预算上限账本**
 
-**为什么是现在:** 251 条求职垃圾信息讨论说明，今天适合做买家证据报告来验证真实需求
+**为什么是现在:** Uber 的 $1,500/month 上限和 466 条讨论说明 AI coding 花费今天已成团队预算问题
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-03.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-03.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-04.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-04.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[6月3日](zh/2026/2026-06-03.md)**: 251 条求职垃圾信息讨论暴露买家证据缺口
-- **[6月2日](zh/2026/2026-06-02.md)**: 323 条讨论暴露账号恢复里的 AI 客服风险
-- **[6月1日](zh/2026/2026-06-01.md)**: 278 条讨论显示机器人门禁正在挡住真人注册
-- **[5月31日](zh/2026/2026-05-31.md)**: 371 条讨论揭开 MCP 连接的可靠性缺口
-- **[5月28日](zh/2026/2026-05-28.md)**: 11 条 Recurflux 评论指向仪表盘看不见的收入漏损
+- **[6月4日](zh/2026/2026-06-04.md)**: 466 条讨论让 AI 编程花费变成预算拉扯
+- **[6月3日](zh/2026/2026-06-03.md)**: 1,015 条评论暴露冷触达背后的真实需求缺口
+- **[6月2日](zh/2026/2026-06-02.md)**: 323 条讨论说明账号恢复流程也可能变成攻击者
+- **[6月1日](zh/2026/2026-06-01.md)**: 278 条讨论提醒反机器人门禁可能挡住真人用户
+- **[5月31日](zh/2026/2026-05-31.md)**: 371 条讨论让 MCP 可靠性变成上线阻碍
 
 [完整归档 →](zh/)
 
