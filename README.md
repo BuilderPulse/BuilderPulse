@@ -7,51 +7,53 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Jun 4
+## <a id="english"></a>💡 Today's build · Jun 5
 
-> **build a per-team AI coding seat cap ledger**
+> **build a Vibe-Code Safety Report**
 
-**Why now:** Uber's $1,500/month cap and 466 comments make AI coding spend a manager-owned budget problem today
+**Why now:** 209 comments on the vulnerable-app test show founders need proof before shipping AI-generated code
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-04.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-04.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-05.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-05.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Jun 4](en/2026/2026-06-04.md)**: 466 comments turned AI coding spend into a budget fight
-- **[Jun 3](en/2026/2026-06-03.md)**: 1,015 comments made founder outreach look more like spam
-- **[Jun 2](en/2026/2026-06-02.md)**: 323 comments showed account recovery can become the attacker
-- **[Jun 1](en/2026/2026-06-01.md)**: 278 comments showed anti-bot gates can reject real buyers
-- **[May 31](en/2026/2026-05-31.md)**: 371 comments turned MCP reliability into a rollout blocker
+- **[Jun 5](en/2026/2026-06-05.md)**: 209 comments turned AI code safety into a founder deadline
+- **[Jun 4](en/2026/2026-06-04.md)**: 466 comments made AI coding spend a manager problem
+- **[Jun 3](en/2026/2026-06-03.md)**: 1,015 comments exposed cold outreach as demand theater
+- **[Jun 2](en/2026/2026-06-02.md)**: 323 comments showed account recovery can betray the owner
+- **[Jun 1](en/2026/2026-06-01.md)**: 278 comments showed bot gates can block real signups
+- **[May 31](en/2026/2026-05-31.md)**: 371 comments made MCP reliability the hidden AI blocker
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 6月4日
+## <a id="chinese"></a>💡 今日建议 · 6月5日
 
-> **做一个团队 AI 编程席位预算上限账本**
+> **做一个 Vibe-Code 安全报告**
 
-**为什么是现在:** Uber 的 $1,500/month 上限和 466 条讨论说明 AI coding 花费今天已成团队预算问题
+**为什么是现在:** 209 条讨论说明，AI 生成应用上线前需要创始人看得懂的安全证明
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-04.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-04.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-05.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-05.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[6月4日](zh/2026/2026-06-04.md)**: 466 条讨论让 AI 编程花费变成预算拉扯
-- **[6月3日](zh/2026/2026-06-03.md)**: 1,015 条评论暴露冷触达背后的真实需求缺口
-- **[6月2日](zh/2026/2026-06-02.md)**: 323 条讨论说明账号恢复流程也可能变成攻击者
-- **[6月1日](zh/2026/2026-06-01.md)**: 278 条讨论提醒反机器人门禁可能挡住真人用户
-- **[5月31日](zh/2026/2026-05-31.md)**: 371 条讨论让 MCP 可靠性变成上线阻碍
+- **[6月5日](zh/2026/2026-06-05.md)**: 209 条讨论把 AI 代码安全变成上线前的硬问题
+- **[6月4日](zh/2026/2026-06-04.md)**: 466 条讨论让 AI 编码花费变成经理账单
+- **[6月3日](zh/2026/2026-06-03.md)**: 1,015 条评论暴露冷触达正在伪装成需求
+- **[6月2日](zh/2026/2026-06-02.md)**: 323 条讨论提醒账号恢复可能背叛用户所有权
+- **[6月1日](zh/2026/2026-06-01.md)**: 278 条讨论显示机器人门禁会挡住真实注册
+- **[5月31日](zh/2026/2026-05-31.md)**: 371 条讨论把 MCP 可靠性推到上线前台
 
 [完整归档 →](zh/)
 
