@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Jun 9
+## <a id="english"></a>💡 Today's build · Jun 10
 
-> **build a landing page specificity receipt for AI tool founders**
+> **build a Fable credit cutoff report**
 
-**Why now:** Performative-UI drew 162 comments because generic AI homepages are now recognizable enough to make specificity sell
+**Why now:** 1,545 comments turned the June 22 Fable access cutoff into a budget-routing problem teams need to see today
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-09.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-09.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-10.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-10.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Jun 9](en/2026/2026-06-09.md)**: 162 comments made generic AI homepages a sellable joke
-- **[Jun 8](en/2026/2026-06-08.md)**: A $35K MRR sale met 872 comments asking for receipts
-- **[Jun 7](en/2026/2026-06-07.md)**: 224 Product Hunt votes made agent store permissions unavoidable
-- **[Jun 6](en/2026/2026-06-06.md)**: 521 comments turned AI pull requests into maintainer risk
-- **[Jun 5](en/2026/2026-06-05.md)**: A $1,500 hacking test made vibe-code safety impossible to handwave
-- **[Jun 4](en/2026/2026-06-04.md)**: $1,500/month AI caps made coding assistants a budget problem
-- **[Jun 3](en/2026/2026-06-03.md)**: 1,015 hiring-thread comments exposed outreach demand theater
+- **[Jun 10](en/2026/2026-06-10.md)**: Fable drew 1,545 comments before June 22 access changes, who pays?
+- **[Jun 9](en/2026/2026-06-09.md)**: Performative-UI drew 162 comments as AI homepages became parody, now what?
+- **[Jun 8](en/2026/2026-06-08.md)**: A $35K MRR sale met 872 comments asking for proof
+- **[Jun 7](en/2026/2026-06-07.md)**: Manus won 224 votes while account takeovers raised agent-permission questions
+- **[Jun 6](en/2026/2026-06-06.md)**: Ladybird drew 521 comments after closing public submissions, who trusts PRs?
+- **[Jun 5](en/2026/2026-06-05.md)**: A $1,500 vulnerable-app test drew 209 comments, can vibe-code ship?
+- **[Jun 4](en/2026/2026-06-04.md)**: Uber $1,500/month AI cap drew 466 comments, whose seat overspends?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 6月9日
+## <a id="chinese"></a>💡 今日建议 · 6月10日
 
-> **做一个 AI 工具落地页具体性审计**
+> **做一个 Fable 额度截止报告**
 
-**为什么是现在:** Performative-UI 引发 162 条讨论说明通用 AI 首页已成笑点今天适合卖具体性审计
+**为什么是现在:** 1,545 条讨论把 Fable 的 6 月 22 日访问变化变成团队今天就该看清的预算路由问题
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-09.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-09.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-10.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-10.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[6月9日](zh/2026/2026-06-09.md)**: 162 条讨论让通用 AI 首页变成可销售的笑点
-- **[6月8日](zh/2026/2026-06-08.md)**: $35K 月经常性收入出售撞上 872 条信任讨论
-- **[6月7日](zh/2026/2026-06-07.md)**: 224 次赞同把智能体权限推到店铺门口
-- **[6月6日](zh/2026/2026-06-06.md)**: 521 条讨论让 AI PR 变成维护者风险
-- **[6月5日](zh/2026/2026-06-05.md)**: 1,500 美元攻防测试让 vibe-code 安全无法再含糊
-- **[6月4日](zh/2026/2026-06-04.md)**: 1,500 美元/月上限让 AI 编码助手变成预算问题
-- **[6月3日](zh/2026/2026-06-03.md)**: 1,015 条评论暴露冷触达里的假需求
+- **[6月10日](zh/2026/2026-06-10.md)**: Fable 引发 1,545 条讨论，6 月 22 日后谁来付账
+- **[6月9日](zh/2026/2026-06-09.md)**: Performative-UI 引发 162 条讨论，AI 首页套路还能卖吗
+- **[6月8日](zh/2026/2026-06-08.md)**: $35K MRR 出售案例撞上 872 条讨论，买家信什么
+- **[6月7日](zh/2026/2026-06-07.md)**: Manus 获得 224 次赞同，客服智能体到底能改什么
+- **[6月6日](zh/2026/2026-06-06.md)**: Ladybird 在 521 条讨论后关门收 PR，维护者还信什么
+- **[6月5日](zh/2026/2026-06-05.md)**: $1,500 漏洞测试引发 209 条讨论，AI 应用敢上线吗
+- **[6月4日](zh/2026/2026-06-04.md)**: Uber 每月 $1,500 上限引发 466 条讨论，谁在超支
 
 [完整归档 →](zh/)
 
