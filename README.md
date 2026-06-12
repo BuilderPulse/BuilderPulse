@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Jun 11
+## <a id="english"></a>💡 Today's build · Jun 12
 
-> **build a one-page AI workflow exposure receipt**
+> **build a dev machine trust receipt**
 
-**Why now:** Fable's 2,093 comments show teams need proof of which prompts, files, runtimes, and retention rules touch AI coding workflows
+**Why now:** Homebrew's 260 comments made developer setup trust visible as AUR attacks gave teams a reason to inspect local code execution
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-11.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-11.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-12.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-12.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Jun 11](en/2026/2026-06-11.md)**: Fable drew 2,093 comments, and AI workflow plumbing is suddenly exposed
-- **[Jun 10](en/2026/2026-06-10.md)**: Fable drew 1,545 comments before budget cliffs arrive
-- **[Jun 9](en/2026/2026-06-09.md)**: Performative-UI drew 162 comments as generic AI homepages became the joke
-- **[Jun 8](en/2026/2026-06-08.md)**: 872 comments made side-project sale proof feel urgent
-- **[Jun 7](en/2026/2026-06-07.md)**: Meta takeovers and 224 Product Hunt votes made agent permissions tangible
-- **[Jun 6](en/2026/2026-06-06.md)**: Ladybird's 521 comments show maintainers want PR proof, not volume
-- **[Jun 5](en/2026/2026-06-05.md)**: A $1,500 hacking test made vibe-code safety reports suddenly sellable
+- **[Jun 12](en/2026/2026-06-12.md)**: 260 comments made Homebrew tap trust a laptop risk to map next
+- **[Jun 11](en/2026/2026-06-11.md)**: Fable drew 2,093 comments as hidden AI workflow plumbing got uncomfortable
+- **[Jun 10](en/2026/2026-06-10.md)**: Fable's 1,545 comments exposed a model launch as tomorrow's budget shock
+- **[Jun 9](en/2026/2026-06-09.md)**: 162 comments turned generic AI landing pages into a buyer-trust problem
+- **[Jun 8](en/2026/2026-06-08.md)**: A $35K MRR sale made private SaaS proof the next bottleneck
+- **[Jun 7](en/2026/2026-06-07.md)**: 180 account-takeover comments made agent permissions the urgent map
+- **[Jun 6](en/2026/2026-06-06.md)**: 521 comments showed maintainers need PR trust before the next merge
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 6月11日
+## <a id="chinese"></a>💡 今日建议 · 6月12日
 
-> **做一个AI工作流暴露报告**
+> **做一个开发机信任报告**
 
-**为什么是现在:** Fable 的 2,093 条讨论说明团队今天需要看清 AI 编码工作流接触哪些提示词文件运行时和留存规则
+**为什么是现在:** Homebrew 发布引发 260 条讨论 AUR 攻击又让团队必须检查开发机信任
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-11.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-11.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-12.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-12.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[6月11日](zh/2026/2026-06-11.md)**: Fable 引发 2,093 条讨论，AI 工作流管线突然暴露
-- **[6月10日](zh/2026/2026-06-10.md)**: Fable 引发 1,545 条讨论，预算截止正在靠近
-- **[6月9日](zh/2026/2026-06-09.md)**: Performative-UI 引发 162 条讨论，通用 AI 首页变成笑点
-- **[6月8日](zh/2026/2026-06-08.md)**: 872 条讨论让副业项目出售证明变得紧迫
-- **[6月7日](zh/2026/2026-06-07.md)**: 224 个 Product Hunt 投票之后，agent 权限问题更具体
-- **[6月6日](zh/2026/2026-06-06.md)**: Ladybird 的 521 条讨论说明维护者要补丁证明
-- **[6月5日](zh/2026/2026-06-05.md)**: $1,500 漏洞测试之后，vibe-code 安全报告有了买点
+- **[6月12日](zh/2026/2026-06-12.md)**: 260 条讨论把 Homebrew tap trust 变成开发机信任缺口
+- **[6月11日](zh/2026/2026-06-11.md)**: Fable 引发 2,093 条讨论 AI 工作流暗管线终于露出来
+- **[6月10日](zh/2026/2026-06-10.md)**: Fable 引发 1,545 条讨论 模型发布变成预算风险
+- **[6月9日](zh/2026/2026-06-09.md)**: 162 条讨论让通用 AI 首页变成买家信任问题
+- **[6月8日](zh/2026/2026-06-08.md)**: $35K MRR 出售案例让小 SaaS 尽调证明变急
+- **[6月7日](zh/2026/2026-06-07.md)**: 180 条账号接管讨论让智能体权限地图变成必需品
+- **[6月6日](zh/2026/2026-06-06.md)**: 521 条讨论说明维护者需要合并前的 PR 信任报告
 
 [完整归档 →](zh/)
 
