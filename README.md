@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Jun 13
+## <a id="english"></a>💡 Today's build · Jun 14
 
-> **build a one-page agent spend cutoff sheet**
+> **build a Model Exit Drill for AI provider continuity**
 
-**Why now:** A $6531.30 AWS bill and 505 comments exposed autonomous AI scripts' missing spend cutoffs today
+**Why now:** Anthropic access shock drew 2,229 comments, making AI provider continuity a live engineering-risk sale
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-13.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-13.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-14.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-14.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Jun 13](en/2026/2026-06-13.md)**: A $6531.30 bill and 505 comments ask who stops the next agent
-- **[Jun 12](en/2026/2026-06-12.md)**: 260 comments made Homebrew tap trust a laptop risk worth mapping
-- **[Jun 11](en/2026/2026-06-11.md)**: 2,093 comments turned Fable into a privacy and runtime exposure question
-- **[Jun 10](en/2026/2026-06-10.md)**: 1,545 comments turned Fable credits into a $10K monthly invoice question
-- **[Jun 9](en/2026/2026-06-09.md)**: 162 comments made generic AI landing pages the joke founders must fix
-- **[Jun 8](en/2026/2026-06-08.md)**: 872 comments and a $35K MRR sale made proof rooms timely
-- **[Jun 7](en/2026/2026-06-07.md)**: 180 comments made agent permissions urgent before the next account change
+- **[Jun 14](en/2026/2026-06-14.md)**: Anthropic access shock drew 2,229 comments, now the fallback gap shows
+- **[Jun 13](en/2026/2026-06-13.md)**: $6531.30 AWS bill drew 505 comments, where is the cutoff
+- **[Jun 12](en/2026/2026-06-12.md)**: Homebrew tap trust drew 260 comments, which laptops trust outside code
+- **[Jun 11](en/2026/2026-06-11.md)**: Fable launch drew 2,093 comments, but where did the prompts go
+- **[Jun 10](en/2026/2026-06-10.md)**: Fable drew 1,545 comments, and the invoice window opened
+- **[Jun 9](en/2026/2026-06-09.md)**: Performative-UI drew 162 comments, why do AI homepages blur together
+- **[Jun 8](en/2026/2026-06-08.md)**: A $35K MRR sale met 872 comments, what proof closes trust
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 6月13日
+## <a id="chinese"></a>💡 今日建议 · 6月14日
 
-> **做一个AI脚本花费止损表**
+> **做一个模型退出演练连续性报告**
 
-**为什么是现在:** 今天一张 $6531.30 AWS 账单和 505 条讨论暴露了自主 AI 脚本缺少花费止损
+**为什么是现在:** Anthropic 访问震荡引发 2,229 条评论，模型退出方案今天成了真实工程风险
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-13.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-13.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-14.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-14.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[6月13日](zh/2026/2026-06-13.md)**: $6531.30 AWS 账单和 505 条讨论追问谁能先止损
-- **[6月12日](zh/2026/2026-06-12.md)**: 260 条讨论把 Homebrew tap trust 变成笔记本风险
-- **[6月11日](zh/2026/2026-06-11.md)**: 2,093 条讨论让 Fable 变成隐私和运行时问题
-- **[6月10日](zh/2026/2026-06-10.md)**: 1,545 条讨论把 Fable credits 推向 $10K 每月账单
-- **[6月9日](zh/2026/2026-06-09.md)**: 162 条讨论让通用 AI 首页成了创始人必须修的笑话
-- **[6月8日](zh/2026/2026-06-08.md)**: 872 条讨论和 $35K MRR 出售案例让证明空间变急
-- **[6月7日](zh/2026/2026-06-07.md)**: 180 条讨论让智能体权限在下次改账号前变得刺眼
+- **[6月14日](zh/2026/2026-06-14.md)**: Anthropic 访问震荡引发 2,229 条评论，备用方案缺口露出来了
+- **[6月13日](zh/2026/2026-06-13.md)**: $6531.30 AWS 账单引发 505 条讨论，谁来按下停机开关
+- **[6月12日](zh/2026/2026-06-12.md)**: Homebrew tap trust 引发 260 条讨论，哪些笔记本信错了代码
+- **[6月11日](zh/2026/2026-06-11.md)**: Fable 发布引发 2,093 条讨论，私有提示词去了哪里
+- **[6月10日](zh/2026/2026-06-10.md)**: Fable 引发 1,545 条讨论，下一张 $10K/mo 账单从哪来
+- **[6月9日](zh/2026/2026-06-09.md)**: Performative-UI 引发 162 条讨论，AI 首页为什么都像彼此
+- **[6月8日](zh/2026/2026-06-08.md)**: $35K MRR 出售碰上 872 条讨论，买家到底能信什么
 
 [完整归档 →](zh/)
 
