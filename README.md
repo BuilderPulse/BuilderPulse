@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Jun 15
+## <a id="english"></a>💡 Today's build · Jun 16
 
-> **build a browser-openable offline docs packet**
+> **build a Dependency Security Calendar**
 
-**Why now:** Kage drew 90 comments from teams needing offline wiki, prototype, and runbook copies before network access fails
+**Why now:** curl July pause drew 302 comments, showing teams need dependency owner and support calendars before intake closes
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-15.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-15.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-16.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-16.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Jun 15](en/2026/2026-06-15.md)**: Kage drew 90 comments as offline docs became urgent, but why now
-- **[Jun 14](en/2026/2026-06-14.md)**: Anthropic access shock drew 2,229 comments; who has a fallback ready
-- **[Jun 13](en/2026/2026-06-13.md)**: A runaway AI script created a 6531.30 dollar AWS bill; who owns the cutoff
-- **[Jun 12](en/2026/2026-06-12.md)**: Homebrew drew 260 comments on tap trust; which laptop is exposed
-- **[Jun 11](en/2026/2026-06-11.md)**: Fable drew 2,093 comments as AI workflow plumbing surfaced; who can prove it
-- **[Jun 10](en/2026/2026-06-10.md)**: Fable drew 1,545 comments as flat-rate access shifted; where does cost jump
-- **[Jun 9](en/2026/2026-06-09.md)**: Performative-UI drew 162 comments mocking AI homepages; what still sells
+- **[Jun 16](en/2026/2026-06-16.md)**: curl July pause drew 302 comments; who owns your dependencies?
+- **[Jun 15](en/2026/2026-06-15.md)**: Kage drew 90 comments; will your wiki work offline?
+- **[Jun 14](en/2026/2026-06-14.md)**: Fable access shock drew 2,229 comments; what is your fallback?
+- **[Jun 13](en/2026/2026-06-13.md)**: A $6531.30 AWS bill drew 505 comments; where is the cutoff?
+- **[Jun 12](en/2026/2026-06-12.md)**: Homebrew tap trust drew 260 comments; which laptop trusts what?
+- **[Jun 11](en/2026/2026-06-11.md)**: Fable drew 2,093 comments; what did your AI workflow expose?
+- **[Jun 10](en/2026/2026-06-10.md)**: Fable drew 1,545 comments; where can 10K dollars per month surprise you?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 6月15日
+## <a id="chinese"></a>💡 今日建议 · 6月16日
 
-> **做一个离线文档交付包**
+> **做一个依赖安全日历**
 
-**为什么是现在:** Kage 引发 90 条讨论，说明团队现在需要能离线打开的 wiki、原型和作业手册副本
+**为什么是现在:** curl 7 月暂停接收漏洞报告引发 302 条讨论，说明团队现在就该补齐依赖负责人和支持日历
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-15.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-15.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-16.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-16.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[6月15日](zh/2026/2026-06-15.md)**: Kage 引发 90 条讨论，离线文档交付包谁先需要
-- **[6月14日](zh/2026/2026-06-14.md)**: Anthropic 访问震荡引发 2,229 条评论，谁已有备用模型
-- **[6月13日](zh/2026/2026-06-13.md)**: AI 脚本制造 6531.30 美元 AWS 账单，谁握着停机开关
-- **[6月12日](zh/2026/2026-06-12.md)**: Homebrew 发布引发 260 条讨论，哪台笔记本信错了代码
-- **[6月11日](zh/2026/2026-06-11.md)**: Fable 引发 2,093 条讨论，AI 工作流到底碰过什么
-- **[6月10日](zh/2026/2026-06-10.md)**: Fable 引发 1,545 条讨论，下一张 AI 账单会从哪来
-- **[6月9日](zh/2026/2026-06-09.md)**: Performative-UI 引发 162 条讨论，通用 AI 首页还骗得过谁
+- **[6月16日](zh/2026/2026-06-16.md)**: curl 7 月暂停引发 302 条讨论，谁在守你的依赖？
+- **[6月15日](zh/2026/2026-06-15.md)**: Kage 引发 90 条评论，你的 wiki 离线还能打开吗？
+- **[6月14日](zh/2026/2026-06-14.md)**: Fable 访问震荡引发 2,229 条评论，你的备用模型在哪？
+- **[6月13日](zh/2026/2026-06-13.md)**: 6531.30 美元 AWS 账单引发 505 条讨论，谁能刹车？
+- **[6月12日](zh/2026/2026-06-12.md)**: Homebrew tap trust 引发 260 条讨论，哪台电脑信任了谁？
+- **[6月11日](zh/2026/2026-06-11.md)**: Fable 引发 2,093 条讨论，你的 AI 工作流暴露了什么？
+- **[6月10日](zh/2026/2026-06-10.md)**: Fable 引发 1,545 条讨论，每月 10K 美元账单会从哪来？
 
 [完整归档 →](zh/)
 
