@@ -7,55 +7,43 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Jun 17
+## <a id="english"></a>💡 Today's build · Jul 9
 
-> **build a take-home repo safety report**
+> **build a VibeAudit pre-commit hook that catches hallucinated AI imports**
 
-**Why now:** 292 comments exposed take-home repos as an install-time security risk candidates need checked today
+**Why now:** strix's 10,274 weekly stars signal an urgent gap in AI code quality tooling
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-17.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-17.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-07-09.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-07-09.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Jun 17](en/2026/2026-06-17.md)**: 292 comments made npm install a job-interview risk
-- **[Jun 16](en/2026/2026-06-16.md)**: 302 comments turned maintainer vacations into dependency deadlines
-- **[Jun 15](en/2026/2026-06-15.md)**: 90 comments showed offline docs are now trust infrastructure
-- **[Jun 14](en/2026/2026-06-14.md)**: 2,229 comments made model access loss a continuity problem
-- **[Jun 13](en/2026/2026-06-13.md)**: 6531.30 dollars in AWS spend made agent limits urgent
-- **[Jun 12](en/2026/2026-06-12.md)**: 260 comments made developer laptop trust inspectable
-- **[Jun 11](en/2026/2026-06-11.md)**: 2,093 comments exposed AI workflow plumbing nobody mapped
+- **[Jul 9](en/2026/2026-07-09.md)**: strix's 10,274 weekly stars confirm AI code quality is the next big gap
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 6月17日
+## <a id="chinese"></a>💡 今日建议 · 7月9日
 
-> **做一个面试仓库安全报告**
+> **做一个 VibeAudit pre-commit 钩子，扫描 AI 生成代码中的幻觉导入**
 
-**为什么是现在:** 292 条讨论把居家任务仓库的安装风险推到台前，今天正适合做安全检查报告
+**为什么是现在:** strix 每周 10,274 stars 证明 AI 代码质量工具缺口巨大，今天入场正当其时
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-17.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-17.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-07-09.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-07-09.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[6月17日](zh/2026/2026-06-17.md)**: 292 条讨论把 npm install 变成面试风险
-- **[6月16日](zh/2026/2026-06-16.md)**: 302 条讨论让维护者假期变成依赖截止日
-- **[6月15日](zh/2026/2026-06-15.md)**: 90 条讨论说明离线文档正在变成信任层
-- **[6月14日](zh/2026/2026-06-14.md)**: 2,229 条讨论把模型断供变成连续性问题
-- **[6月13日](zh/2026/2026-06-13.md)**: 6531.30 美元 AWS 账单让 agent 花费上限变紧急
-- **[6月12日](zh/2026/2026-06-12.md)**: 260 条讨论让开发机信任变得可检查
-- **[6月11日](zh/2026/2026-06-11.md)**: 2,093 条讨论暴露 AI 工作流管线没人画清
+- **[7月9日](zh/2026/2026-07-09.md)**: strix 每周 10K stars 证明 AI 代码飙涨但质量检查缺位——一条钩子就是机会
 
 [完整归档 →](zh/)
 
