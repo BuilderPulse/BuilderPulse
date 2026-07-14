@@ -7,51 +7,53 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Jul 13
+## <a id="english"></a>💡 Today's build · Jul 14
 
-> **build a local AI coding cost and repository-transfer report**
+> **build a local coding-session access receipt**
 
-**Why now:** Two tool-transparency debates drew 446 comments today, exposing demand for pre-session cost and file-transfer receipts
+**Why now:** Clawk’s 140 comments show developers need clear access boundaries before coding automation runs
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-07-13.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-07-13.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-07-14.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-07-14.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Jul 13](en/2026/2026-07-13.md)**: 446 comments exposed hidden AI coding costs and file transfers—what leaves first?
-- **[Jul 12](en/2026/2026-07-12.md)**: Ant drew 76 comments and a deployment request—who will remove the anxiety?
-- **[Jul 11](en/2026/2026-07-11.md)**: Deceptive subscription rules drew 221 comments—is your cancellation path defensible?
-- **[Jul 10](en/2026/2026-07-10.md)**: A 599-comment privacy debate made policy changes operational—who translates them?
-- **[Jul 9](en/2026/2026-07-09.md)**: AI code verification drew 52 comments—but can a hook catch the lies?
+- **[Jul 14](en/2026/2026-07-14.md)**: Clawk drew 140 comments; can an access receipt make coding automation safer?
+- **[Jul 13](en/2026/2026-07-13.md)**: 446 comments exposed coding-tool costs and uploads; what leaves your repository?
+- **[Jul 12](en/2026/2026-07-12.md)**: Ant drew 76 comments; is your project truly ready to deploy?
+- **[Jul 11](en/2026/2026-07-11.md)**: 221 comments turned cancellation design into liability; can your flow prove compliance?
+- **[Jul 10](en/2026/2026-07-10.md)**: 599 comments made private-message policy operational; who tracks the next change?
+- **[Jul 9](en/2026/2026-07-09.md)**: 52 comments flagged AI-code risks; what slips through before review?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 7月13日
+## <a id="chinese"></a>💡 今日建议 · 7月14日
 
-> **做一个本地AI编码成本与仓库文件传输报告**
+> **做一个本地编程会话访问凭证**
 
-**为什么是现在:** 今天两场工具透明度争议合计引发446条评论，正适合做会话前成本与文件传输报告
+**为什么是现在:** Clawk 引发 140 条讨论，开发者正需要在编程自动化运行前看清访问边界
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-07-13.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-07-13.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-07-14.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-07-14.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[7月13日](zh/2026/2026-07-13.md)**: 446条评论揭开AI编码的启动成本与文件传输，最先泄露的是什么
-- **[7月12日](zh/2026/2026-07-12.md)**: Ant引发76条评论和明确部署需求，谁来消除上线焦虑
-- **[7月11日](zh/2026/2026-07-11.md)**: 欺骗性订阅禁令引发221条讨论，你的取消流程经得起检查吗
-- **[7月10日](zh/2026/2026-07-10.md)**: 599条评论让隐私政策变化成为运营难题，谁来翻译
-- **[7月9日](zh/2026/2026-07-09.md)**: AI代码验证引发52条评论，一条钩子真能抓住幻觉吗
+- **[7月14日](zh/2026/2026-07-14.md)**: Clawk 引发 140 条讨论，访问凭证能让编程自动化更安全吗？
+- **[7月13日](zh/2026/2026-07-13.md)**: 446 条讨论揭开编程工具开销与上传行为，哪些文件正在离开仓库？
+- **[7月12日](zh/2026/2026-07-12.md)**: Ant 引发 76 条讨论，你的项目真的可以部署了吗？
+- **[7月11日](zh/2026/2026-07-11.md)**: 221 条讨论让取消流程变成合规风险，你能拿出证明吗？
+- **[7月10日](zh/2026/2026-07-10.md)**: 私信政策引发 599 条讨论，下一次变化谁来追踪？
+- **[7月9日](zh/2026/2026-07-09.md)**: 52 条评论聚焦 AI 代码风险，审查前还会漏掉什么？
 
 [完整归档 →](zh/)
 
