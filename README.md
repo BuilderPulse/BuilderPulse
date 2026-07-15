@@ -7,53 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Jul 14
+## <a id="english"></a>💡 Today's build · Jul 15
 
-> **build a local coding-session access receipt**
+> **build a page comparing price tables across recurring government PDFs**
 
-**Why now:** Clawk’s 140 comments show developers need clear access boundaries before coding automation runs
+**Why now:** A 1,041-comment builder thread exposed demand for turning recurring government PDFs into trusted niche market updates
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-07-14.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-07-14.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-07-15.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-07-15.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Jul 14](en/2026/2026-07-14.md)**: Clawk drew 140 comments; can an access receipt make coding automation safer?
-- **[Jul 13](en/2026/2026-07-13.md)**: 446 comments exposed coding-tool costs and uploads; what leaves your repository?
-- **[Jul 12](en/2026/2026-07-12.md)**: Ant drew 76 comments; is your project truly ready to deploy?
-- **[Jul 11](en/2026/2026-07-11.md)**: 221 comments turned cancellation design into liability; can your flow prove compliance?
-- **[Jul 10](en/2026/2026-07-10.md)**: 599 comments made private-message policy operational; who tracks the next change?
-- **[Jul 9](en/2026/2026-07-09.md)**: 52 comments flagged AI-code risks; what slips through before review?
+- **[Jul 15](en/2026/2026-07-15.md)**: 1,041 comments reveal a business hiding in difficult government PDFs
+- **[Jul 14](en/2026/2026-07-14.md)**: 140 comments ask what coding sessions can touch before they run
+- **[Jul 13](en/2026/2026-07-13.md)**: 446 comments expose invisible coding-tool costs and file access
+- **[Jul 12](en/2026/2026-07-12.md)**: 76 comments reveal what keeps developers from deploying Ant
+- **[Jul 11](en/2026/2026-07-11.md)**: 221 comments turn cancellation friction into a looming liability
+- **[Jul 10](en/2026/2026-07-10.md)**: 599 comments make private-message policy changes impossible to ignore
+- **[Jul 9](en/2026/2026-07-09.md)**: 52 comments expose the missing sanity check for AI-written code
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 7月14日
+## <a id="chinese"></a>💡 今日建议 · 7月15日
 
-> **做一个本地编程会话访问凭证**
+> **做一个对比定期政府 PDF 价格表的行情页**
 
-**为什么是现在:** Clawk 引发 140 条讨论，开发者正需要在编程自动化运行前看清访问边界
+**为什么是现在:** 一场有 1041 条评论的讨论暴露了把定期政府 PDF 转成可信利基行情的需求
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-07-14.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-07-14.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-07-15.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-07-15.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[7月14日](zh/2026/2026-07-14.md)**: Clawk 引发 140 条讨论，访问凭证能让编程自动化更安全吗？
-- **[7月13日](zh/2026/2026-07-13.md)**: 446 条讨论揭开编程工具开销与上传行为，哪些文件正在离开仓库？
-- **[7月12日](zh/2026/2026-07-12.md)**: Ant 引发 76 条讨论，你的项目真的可以部署了吗？
-- **[7月11日](zh/2026/2026-07-11.md)**: 221 条讨论让取消流程变成合规风险，你能拿出证明吗？
-- **[7月10日](zh/2026/2026-07-10.md)**: 私信政策引发 599 条讨论，下一次变化谁来追踪？
-- **[7月9日](zh/2026/2026-07-09.md)**: 52 条评论聚焦 AI 代码风险，审查前还会漏掉什么？
+- **[7月15日](zh/2026/2026-07-15.md)**: 1041 条评论揭开了难读政府 PDF 里的生意
+- **[7月14日](zh/2026/2026-07-14.md)**: 140 条讨论追问编程会话运行前究竟能访问什么
+- **[7月13日](zh/2026/2026-07-13.md)**: 446 条讨论暴露编码工具隐藏的成本与文件访问
+- **[7月12日](zh/2026/2026-07-12.md)**: 76 条评论揭示开发者为何不敢部署 Ant
+- **[7月11日](zh/2026/2026-07-11.md)**: 221 条讨论让取消订阅的摩擦变成迫近风险
+- **[7月10日](zh/2026/2026-07-10.md)**: 599 条讨论让私信政策变化再也无法忽视
+- **[7月9日](zh/2026/2026-07-09.md)**: 52 条评论暴露 AI 代码缺失的最后一道检查
 
 [完整归档 →](zh/)
 
