@@ -7,43 +7,45 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Aug 1
+## <a id="english"></a>💡 Today's build · Aug 2
 
-> **build a CLI that prints a plain-English spend receipt for every agent session**
+> **build a weekly report showing where your product appears in ChatGPT, Perplexity, and Gemini answers**
 
-**Why now:** An AI agent burned $99.50 of real money in 24 hours, and 233 comments confirm nobody tracks agent spend
+**Why now:** A 103-comment founder thread asks how to rank on ChatGPT, and nobody sells the visibility meter
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-08-01.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-08-01.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-08-02.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-08-02.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Aug 1](en/2026/2026-08-01.md)**: An AI burned $99.50 and earned $0 in 24 hours — who prints the receipt?
+- **[Aug 2](en/2026/2026-08-02.md)**: 103 comments ask how to rank on ChatGPT — can you see your own placement?
+- **[Aug 1](en/2026/2026-08-01.md)**: An AI burned $99.50 in 24 hours earning $0 — who's watching your agents?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 8月1日
+## <a id="chinese"></a>💡 今日建议 · 8月2日
 
-> **做一个给智能体会话打印通俗账单的本地 CLI**
+> **做一个检查产品在 AI 答案里是否被引用的周报**
 
-**为什么是现在:** 智能体 24 小时烧掉 $99.50 无人监管,233 条讨论验证了给智能体开收据正是今天该做的事
+**为什么是现在:** 创始人已经攒出 103 条讨论问怎么在 ChatGPT 排第一，却还没有人做这块可见度计量表
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-08-01.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-08-01.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-08-02.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-08-02.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[8月1日](zh/2026/2026-08-01.md)**: 智能体 24 小时烧掉 $99.50,233 条讨论都在问谁盯着它花钱
+- **[8月2日](zh/2026/2026-08-02.md)**: 103 条讨论都在问怎么在 ChatGPT 排第一，你的产品在答案里吗？
+- **[8月1日](zh/2026/2026-08-01.md)**: AI 拿着真钱 24 小时烧掉 $99.50 却收入为零，谁来给智能体开收据？
 
 [完整归档 →](zh/)
 
