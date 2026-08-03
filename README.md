@@ -7,45 +7,47 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Aug 2
+## <a id="english"></a>💡 Today's build · Aug 3
 
-> **build a weekly report showing where your product appears in ChatGPT, Perplexity, and Gemini answers**
+> **build a one-command Obsidian-to-logseq or affine vault migrator with links intact**
 
-**Why now:** A 103-comment founder thread asks how to rank on ChatGPT, and nobody sells the visibility meter
+**Why now:** Eight app names rose in search this week and nobody ships the migration tool yet
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-08-02.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-08-02.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-08-03.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-08-03.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Aug 2](en/2026/2026-08-02.md)**: 103 comments ask how to rank on ChatGPT — can you see your own placement?
-- **[Aug 1](en/2026/2026-08-01.md)**: An AI burned $99.50 in 24 hours earning $0 — who's watching your agents?
+- **[Aug 3](en/2026/2026-08-03.md)**: Eight app names spiked in migration searches — who ships the switch first?
+- **[Aug 2](en/2026/2026-08-02.md)**: 103 founders ask how to rank on ChatGPT — will you sell the meter?
+- **[Aug 1](en/2026/2026-08-01.md)**: An AI burned $99.50 in a day — who prints the receipt?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 8月2日
+## <a id="chinese"></a>💡 今日建议 · 8月3日
 
-> **做一个检查产品在 AI 答案里是否被引用的周报**
+> **做一个一条命令把 Obsidian 笔记迁入 logseq 或 affine、保留反向链接的工具**
 
-**为什么是现在:** 创始人已经攒出 103 条讨论问怎么在 ChatGPT 排第一，却还没有人做这块可见度计量表
+**为什么是现在:** 本周 8 个应用名搜索上涨，迁移目的地已经点名，缺的正是导入工具
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-08-02.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-08-02.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-08-03.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-08-03.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[8月2日](zh/2026/2026-08-02.md)**: 103 条讨论都在问怎么在 ChatGPT 排第一，你的产品在答案里吗？
-- **[8月1日](zh/2026/2026-08-01.md)**: AI 拿着真钱 24 小时烧掉 $99.50 却收入为零，谁来给智能体开收据？
+- **[8月3日](zh/2026/2026-08-03.md)**: 本周 8 个应用名搜索上涨，谁先做出笔记迁移工具？
+- **[8月2日](zh/2026/2026-08-02.md)**: 103 条评论在问怎么在 ChatGPT 排第一，谁来做这块计量表？
+- **[8月1日](zh/2026/2026-08-01.md)**: AI 一天烧掉 $99.50，谁来做那张收据？
 
 [完整归档 →](zh/)
 
