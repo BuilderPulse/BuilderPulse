@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Aug 12
+## <a id="english"></a>💡 Today's build · Aug 13
 
-> **build a scanner that checks AI app responses for leaked reasoning traces**
+> **build a one-config packaging pipeline that smoke-tests .deb, .rpm, AppImage, and Flatpak builds**
 
-**Why now:** The stolen-reasoning attack drew 205 comments in a day and no tool exists to check your app
+**Why now:** Linux packaging drew 53 comments as Lobsters' top story today, with no product answering it
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-08-12.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-08-12.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-08-13.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-08-13.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Aug 12](en/2026/2026-08-12.md)**: 205 comments on stolen reasoning traces — no tool checks your app yet
-- **[Aug 11](en/2026/2026-08-11.md)**: Auto mode drew 302 comments — who gates your agent's output?
-- **[Aug 10](en/2026/2026-08-10.md)**: 533 comments demand proof of what AI built — ship the receipt
-- **[Aug 9](en/2026/2026-08-09.md)**: A $12 skill file sold — nobody runs the storefront yet
-- **[Aug 8](en/2026/2026-08-08.md)**: 352 comments on 99% bot traffic — who counts humans?
-- **[Aug 7](en/2026/2026-08-07.md)**: 121 comments on AI spend tracking — before prices jump
-- **[Aug 6](en/2026/2026-08-06.md)**: 77 comments on Rovo leaking data — agents have wallets, not guards
+- **[Aug 13](en/2026/2026-08-13.md)**: Packaging Linux apps drew 53 war stories on Lobsters today — who ships the fix?
+- **[Aug 12](en/2026/2026-08-12.md)**: Reasoning traces can be stolen from AI APIs (205 comments) — no leak checker exists
+- **[Aug 11](en/2026/2026-08-11.md)**: Auto mode makes agents run unattended (302 comments) — who gates their work?
+- **[Aug 10](en/2026/2026-08-10.md)**: An AI-built app cloned open source bug-for-bug (251 comments) — ship the authenticity receipt?
+- **[Aug 9](en/2026/2026-08-09.md)**: A $12 skill file sold and skills top Product Hunt — who builds the checkout?
+- **[Aug 8](en/2026/2026-08-08.md)**: One site's traffic was 99% bots (352 comments) — count humans instead?
+- **[Aug 7](en/2026/2026-08-07.md)**: DeepSeek raises prices and nobody sees the AI bill (121 comments) — who reads it?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 8月12日
+## <a id="chinese"></a>💡 今日建议 · 8月13日
 
-> **做一个检查 AI 应用响应是否泄露推理痕迹的扫描器**
+> **做一个一份配置生成四种安装包并逐一冒烟测试的 Linux 打包流水线**
 
-**为什么是现在:** 推理痕迹窃取研究一天内引发 205 条讨论，而还没有任何工具能检查你的应用
+**为什么是现在:** Linux 打包难题今天登上 Lobsters 热榜，53 条讨论却无人做出成品
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-08-12.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-08-12.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-08-13.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-08-13.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[8月12日](zh/2026/2026-08-12.md)**: 推理痕迹窃取研究引发 205 条讨论，还没有工具能检查你的应用
-- **[8月11日](zh/2026/2026-08-11.md)**: auto mode 引来 302 条讨论，发布前的验收层还是空白
-- **[8月10日](zh/2026/2026-08-10.md)**: 533 条讨论在要 AI 真实性证明，回执还没人交付
-- **[8月9日](zh/2026/2026-08-09.md)**: $12 的技能文件卖出去了，商店门面还没人建
-- **[8月8日](zh/2026/2026-08-08.md)**: 99% 流量是机器人的自白引 352 条讨论，谁在数真人？
-- **[8月7日](zh/2026/2026-08-07.md)**: AI 支出追踪引来 121 条讨论，涨价前谁看得清账单？
-- **[8月6日](zh/2026/2026-08-06.md)**: Rovo 泄密引 77 条讨论——智能体有了钱包，还没有守卫
+- **[8月13日](zh/2026/2026-08-13.md)**: Linux 打包难登顶 Lobsters，53 条讨论全是苦水，成品却没人做
+- **[8月12日](zh/2026/2026-08-12.md)**: AI 推理痕迹能被窃取，205 条讨论在热议，泄露检查工具却不存在
+- **[8月11日](zh/2026/2026-08-11.md)**: Claude Code 默认开启 auto mode，302 条评论追问——谁来验收无人值守的智能体？
+- **[8月10日](zh/2026/2026-08-10.md)**: AI 逐 bug 克隆开源应用后下架，533 条评论都在要一张 AI 真实性回执
+- **[8月9日](zh/2026/2026-08-09.md)**: 12 美元的技能文件真卖出去了，登顶 Product Hunt 的也是技能包——商店门面却没人做
+- **[8月8日](zh/2026/2026-08-08.md)**: 150 万页网站 99% 流量是机器人，352 条讨论——谁在数真人？
+- **[8月7日](zh/2026/2026-08-07.md)**: DeepSeek 官宣大幅涨价，121 条评论争论 AI 花费——余额却没人看得见
 
 [完整归档 →](zh/)
 
